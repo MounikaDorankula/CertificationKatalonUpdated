@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_or_btn primary</name>
+   <tag></tag>
+   <elementGuidId>8cbf54fe-4d81-4d4a-a7e1-eafa1cbd9bf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Save this computer']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>58f27b01-00ac-4b05-a173-5bed72b4d4f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>434e119b-4c12-4469-96c7-c271292860ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Save this computer</value>
+      <webElementGuid>540137dc-87b9-40b9-95b9-2e89925f1ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn primary</value>
+      <webElementGuid>be39758b-448a-4255-b069-0eb72307050b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/form[1]/div[@class=&quot;actions&quot;]/input[@class=&quot;btn primary&quot;]</value>
+      <webElementGuid>632bd22f-bc4e-47ec-bc0b-8441e0a40453</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Save this computer']</value>
+      <webElementGuid>208c4d74-e566-463c-8f01-47dbdcd4bdba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/form/div/input</value>
+      <webElementGuid>ff6e288c-952e-42fa-9a8a-347957abce2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/input</value>
+      <webElementGuid>c3495f50-4014-4040-b5f1-e0752f9460be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>ccb1ad34-4742-4418-b576-cb26fda4e85b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

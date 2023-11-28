@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Login</name>
+   <tag></tag>
+   <elementGuidId>74d64d9d-f150-4c41-b6a0-c6bb8e43a6b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mynavbar']/div/a/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>74d12eb7-ecf3-43cd-9587-6ea0133ce8b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>26f7bde2-afa9-48e8-9cea-a1f8fbef510d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mynavbar&quot;)/div[@class=&quot;nav-right col-12 col-xl-3 my-2 my-xl-0 d-flex&quot;]/a[@class=&quot;btn btn-outline-dark rounded bg-white m-1 w-100 text-uppercase fs-6 px-0 fw-100 waves-effect&quot;]/strong[1]</value>
+      <webElementGuid>47293138-1f53-401e-a2f0-fefdd08d6637</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mynavbar']/div/a/strong</value>
+      <webElementGuid>c4ada772-0596-4027-b342-99b7803bfd0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Media Kit'])[1]/following::strong[1]</value>
+      <webElementGuid>1fc7ae2e-e82b-4576-a461-4e2ba4c361d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/following::strong[1]</value>
+      <webElementGuid>4044c8be-6acb-4f83-a68e-b0596a790521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signup'])[1]/preceding::strong[1]</value>
+      <webElementGuid>93d0a236-65f3-4866-97fb-677c87a4b8c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demonstration'])[1]/preceding::strong[2]</value>
+      <webElementGuid>31d22a0d-3f9a-4c02-b629-7a3a45b53a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>ef6bb4d5-299f-4cb4-af8e-ec1f4ba83412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>fd33d4c7-91eb-4e32-b648-9747763b2628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>c9efc0b3-45a1-4ec8-a8ce-96ebe490c16b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

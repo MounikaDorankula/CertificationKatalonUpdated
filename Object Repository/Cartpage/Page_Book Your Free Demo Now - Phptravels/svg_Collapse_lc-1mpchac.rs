@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Collapse_lc-1mpchac</name>
+   <tag></tag>
+   <elementGuidId>2c01edd1-3df6-4fc3-9dbc-0a3dc70d9075</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.e7bf83j1.lc-ebkyw6.e1m5b1js0 > svg.lc-1mpchac</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>bd5f04de-ecdc-483f-af6c-09211f78a2a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>inherit</value>
+      <webElementGuid>a2b85b31-be76-4a33-a4d2-9c2b446895da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 32 32</value>
+      <webElementGuid>0f14294c-b75e-4ac7-87f6-1a05ebdce9dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ae1cba28-9516-4c97-a18e-f1c1b875bd81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lc-1mpchac</value>
+      <webElementGuid>6dfe7be8-6fdc-463b-859b-a0a27aace4b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-global-b5c41qgv5h7&quot;)/div[@class=&quot;lc-1dvk0j5 edvz03i2 lc-12vmhyu-exit lc-12vmhyu-exit-active&quot;]/div[@class=&quot;lc-jy8v6l edvz03i1&quot;]/div[@class=&quot;lc-19sh64w e1ohfhv1&quot;]/button[@class=&quot;e7bf83j1 lc-ebkyw6 e1m5b1js0&quot;]/svg[@class=&quot;lc-1mpchac&quot;]</value>
+      <webElementGuid>17c0a534-2b6b-4ef1-8a3c-76f3b26f0b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Cartpage/Page_Book Your Free Demo Now - Phptravels/iframe_concat(id(, , chat-widget, , ))_chat-widget</value>
+      <webElementGuid>973e463b-f5ea-4391-afbe-c8e40588f134</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>d1870c83-1ce4-498e-819d-7cb6b314d871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qasim'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>dfe70b54-5c0c-414d-96b6-75676bd882f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hussain'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>2e6e74ff-83ca-448a-8baa-43f9d8548175</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

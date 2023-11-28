@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Return to RP-LI-02</name>
+   <tag></tag>
+   <elementGuidId>fd14c10f-ba06-4b25-a323-eb59580b51b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#BackLink > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='BackLink']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ce08a5d3-e8a5-4e8b-a3db-5b30906a8a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/actions/Catalog.action?viewProduct=&amp;productId=RP-LI-02</value>
+      <webElementGuid>e1c3409b-5ab6-4ef4-98c8-7cdbabc90a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Return to RP-LI-02</value>
+      <webElementGuid>59a4dbb5-66d2-4eef-8934-644f70d0b616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BackLink&quot;)/a[1]</value>
+      <webElementGuid>e2ab29ea-e5c7-4864-9b09-4e164d9b2dbc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='BackLink']/a</value>
+      <webElementGuid>025751b4-4c6a-484a-a25e-5425bec5a920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Return to RP-LI-02')]</value>
+      <webElementGuid>e6f2e8a2-08f9-4a38-a42d-14c2b4e734ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='?'])[1]/following::a[6]</value>
+      <webElementGuid>8262e32c-96ad-495a-a9bd-5eae5cc7f52f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::a[7]</value>
+      <webElementGuid>bc9b6f64-e59f-4358-9d43-a1a21931bc98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Friendly green friend'])[1]/preceding::a[1]</value>
+      <webElementGuid>659a4d6e-a471-45fd-9b6b-8406e3ae31d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EST-13'])[1]/preceding::a[1]</value>
+      <webElementGuid>fcfadbc2-95cb-4019-bd8c-dd524a4a8932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Return to RP-LI-02']/parent::*</value>
+      <webElementGuid>55c2884d-d5ec-40d9-bebd-8570141f2ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/actions/Catalog.action?viewProduct=&amp;productId=RP-LI-02')]</value>
+      <webElementGuid>3ccef74c-f7eb-48a2-afb4-4c9538a64dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>77d14d69-04f6-445a-8a3a-528fa617bea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/actions/Catalog.action?viewProduct=&amp;productId=RP-LI-02' and (text() = 'Return to RP-LI-02' or . = 'Return to RP-LI-02')]</value>
+      <webElementGuid>847e9ba2-a5eb-48cd-940d-09f29feb004c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_API</name>
+   <tag></tag>
+   <elementGuidId>377987a8-74ac-47ba-b4a2-98bc4c1a02a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Secondary_Sidebar-Categories-API</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='Secondary_Sidebar-Categories-API']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>39278c0e-6a14-40a2-ac60-bcc6252d609a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>menuitemname</name>
+      <type>Main</type>
+      <value>API</value>
+      <webElementGuid>85b24437-63c7-47f1-96f8-f0b11f144c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/store/api</value>
+      <webElementGuid>4f988571-ed70-4fef-8e74-8782fde375f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item list-group-item-action</value>
+      <webElementGuid>a88dcf0d-4d66-4fd3-ad5f-cef0ee5f8342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Secondary_Sidebar-Categories-API</value>
+      <webElementGuid>2dd9c3de-b854-4007-b5b6-b7f0f9deb5ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+API
+</value>
+      <webElementGuid>4d572e03-0fe5-4583-9930-5b692c124d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Secondary_Sidebar-Categories-API&quot;)</value>
+      <webElementGuid>2d32fd60-b775-40a3-a2b6-c104ec759bdb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='Secondary_Sidebar-Categories-API']</value>
+      <webElementGuid>ae3d6582-572f-44e3-abac-40a5093f1af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-standard_cart']/div/div/div/div[2]/a[5]</value>
+      <webElementGuid>b7dd1939-bce0-4385-b020-4b2769d13fb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'API')])[2]</value>
+      <webElementGuid>01d3dfdd-7d02-4d35-bd9d-4b538e4dc8c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[2]/following::a[1]</value>
+      <webElementGuid>f08cb2d0-38d6-462e-a766-c2b2263612ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile'])[2]/following::a[2]</value>
+      <webElementGuid>a6a31cc2-c091-4db6-9d99-4b7d1444fdaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/store/api')])[2]</value>
+      <webElementGuid>0e4c2fa2-e191-4449-bf72-854b53987721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>863beefd-0b73-4bc7-9a8b-f3b65978da1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/store/api' and @id = 'Secondary_Sidebar-Categories-API' and (text() = '
+API
+' or . = '
+API
+')]</value>
+      <webElementGuid>a16c9bdb-8418-4977-93b7-1099962ebbc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

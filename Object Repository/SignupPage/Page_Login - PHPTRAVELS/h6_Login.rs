@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Login</name>
+   <tag></tag>
+   <elementGuidId>502a380e-aefc-4725-b80b-f084846782b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h6.h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-body']/div/div/div/form/div/div/div/h6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>fa0a12a2-6c21-4423-b147-02a675e65a7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>c877c68a-39d2-45f0-a7f7-60eb6ef9559e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>53a9ae00-e7f5-402f-af24-30dd47dbe8fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-body&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 primary-content&quot;]/form[@class=&quot;login-form&quot;]/div[@class=&quot;card mw-540 mb-md-4 mt-md-4&quot;]/div[@class=&quot;card-body px-sm-5 py-5&quot;]/div[@class=&quot;mb-4&quot;]/h6[@class=&quot;h3&quot;]</value>
+      <webElementGuid>0295ca48-4fb1-409d-abe0-1d9fdbf7367c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-body']/div/div/div/form/div/div/div/h6</value>
+      <webElementGuid>0f6cc7e3-0205-428d-858f-851bb486abe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/following::h6[1]</value>
+      <webElementGuid>b0f88662-8a9f-4479-ad23-325c1aaf0660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::h6[1]</value>
+      <webElementGuid>d13350e5-3709-4ba6-8cf9-8f75255ac587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/preceding::h6[1]</value>
+      <webElementGuid>5825e94e-6934-4546-94bd-df1a3d5c4447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::h6[1]</value>
+      <webElementGuid>3731997a-71eb-46dc-bb3a-ee83dbe2636d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6</value>
+      <webElementGuid>0212ee67-e4bc-49f2-9f5c-48be4a67978e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>d9a5e7a7-5eca-4645-9dad-703b894aaed8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

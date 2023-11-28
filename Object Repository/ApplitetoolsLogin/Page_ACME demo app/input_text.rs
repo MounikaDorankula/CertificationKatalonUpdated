@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_text</name>
+   <tag></tag>
+   <elementGuidId>411307f4-121a-4e73-b8f8-b4268e03fced</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[type=&quot;text&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>13f6173b-6cd9-4050-ba70-c8789ae31f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Start typing to search...</value>
+      <webElementGuid>3d3fae2a-70e1-49a9-9522-1726fa14ff7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a695e681-6b7e-455c-bc87-94a05f6916df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;menu-position-side menu-side-left full-screen&quot;]/div[@class=&quot;all-wrapper solid-bg-all&quot;]/div[@class=&quot;top-bar color-scheme-bright&quot;]/div[@class=&quot;top-menu-controls&quot;]/div[@class=&quot;element-search autosuggest-search-activator&quot;]/input[1]</value>
+      <webElementGuid>21afb1a3-ceb0-4ea1-97b4-1214a28ffdda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>2e09def4-9206-49ce-8467-5cb251fcd314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>afe3ed63-208a-45f2-86b4-7e5db1b755f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Start typing to search...' and @type = 'text']</value>
+      <webElementGuid>e5b0f90a-d45a-449a-abb5-e799935292a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

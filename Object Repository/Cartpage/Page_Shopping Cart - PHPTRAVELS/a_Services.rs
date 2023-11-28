@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Services</name>
+   <tag></tag>
+   <elementGuidId>e5b8e7af-dff4-48a1-88ac-52abc0b8803f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Secondary_Sidebar-Categories-Services</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='Secondary_Sidebar-Categories-Services']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ef66e4a3-b5d2-4fe1-857a-9d51e00e8a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>menuitemname</name>
+      <type>Main</type>
+      <value>Services</value>
+      <webElementGuid>584beee8-b28f-47dd-a4ed-b680406d1de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/store/services</value>
+      <webElementGuid>f825f5a7-a3d8-4d99-86ec-27b5606c031d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item list-group-item-action</value>
+      <webElementGuid>9fb18daf-1f55-4563-a963-88fd2e436178</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Secondary_Sidebar-Categories-Services</value>
+      <webElementGuid>ea493ab2-ee94-4789-a17d-5f7082f777d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Services
+</value>
+      <webElementGuid>6aeaf681-4e17-4ec2-8758-b27fd1d6b13b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Secondary_Sidebar-Categories-Services&quot;)</value>
+      <webElementGuid>ad56766c-576c-43d7-9e95-95ade954e266</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='Secondary_Sidebar-Categories-Services']</value>
+      <webElementGuid>460f8d00-13d4-45e8-ab05-14f169d262f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-standard_cart']/div/div/div/div[2]/a[4]</value>
+      <webElementGuid>485c95e0-cbce-4fcf-9f2e-020dcde4ac80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Services')])[2]</value>
+      <webElementGuid>13209adc-75da-483a-aec2-cf7cd7bddfc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile'])[2]/following::a[1]</value>
+      <webElementGuid>53f1ffd9-c946-4dd3-87ca-aaf88b3c0930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='License'])[2]/following::a[2]</value>
+      <webElementGuid>4d5ad36e-92e2-4ebd-b3c2-ca6b0f6cc579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[2]/preceding::a[1]</value>
+      <webElementGuid>3f365584-144f-4a70-b922-5326156167e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/store/services')])[2]</value>
+      <webElementGuid>8001598e-e1d6-429a-ba1c-c7c53f0fa19a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>7743934d-01e4-4081-bd01-3c444d2b1626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/store/services' and @id = 'Secondary_Sidebar-Categories-Services' and (text() = '
+Services
+' or . = '
+Services
+')]</value>
+      <webElementGuid>f1126b59-dd19-4601-a232-09653617cc9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

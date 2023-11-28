@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Forgot Password_fas fa-eye</name>
+   <tag></tag>
+   <elementGuidId>0cb49155-8e19-4b9f-97c0-b0aa91a53144</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-eye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-body']/div/div/div/form/div/div/div[3]/div[2]/div[2]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a2100b77-628f-4445-ad00-df763987b569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-eye</value>
+      <webElementGuid>c170dcf9-33c5-4920-9b22-eb2c151abaf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-body&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 primary-content&quot;]/form[@class=&quot;login-form&quot;]/div[@class=&quot;card mw-540 mb-md-4 mt-md-4&quot;]/div[@class=&quot;card-body px-sm-5 py-5&quot;]/div[@class=&quot;form-group mb-4 focused&quot;]/div[@class=&quot;input-group input-group-merge&quot;]/div[@class=&quot;input-group-append&quot;]/button[@class=&quot;btn btn-default btn-reveal-pw&quot;]/i[@class=&quot;fas fa-eye&quot;]</value>
+      <webElementGuid>1e45c438-7fc2-4054-b950-f8404cfb541f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-body']/div/div/div/form/div/div/div[3]/div[2]/div[2]/button/i</value>
+      <webElementGuid>083a6a85-eb6a-473b-82d7-d02daec5c4f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/i</value>
+      <webElementGuid>0274b9d3-d77d-4805-be5a-d0cda2ed3095</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

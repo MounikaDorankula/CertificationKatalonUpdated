@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mobile</name>
+   <tag></tag>
+   <elementGuidId>937a2326-3e4d-4b5c-a447-454644d60ec9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Secondary_Sidebar-Categories-Mobile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='Secondary_Sidebar-Categories-Mobile']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dbf78d18-3f4d-479b-8d04-00508580920a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>menuitemname</name>
+      <type>Main</type>
+      <value>Mobile</value>
+      <webElementGuid>7318dc2b-d6ad-4a5d-91e4-e6530fc82b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/store/mobile</value>
+      <webElementGuid>987591c0-6fd7-4b72-ab02-16a6abf4dac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item list-group-item-action</value>
+      <webElementGuid>220b7064-eea1-427f-8af9-014ab383c6dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Secondary_Sidebar-Categories-Mobile</value>
+      <webElementGuid>aeedf0bc-1d28-430d-b0e0-7402cad6472c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Mobile
+</value>
+      <webElementGuid>e93a898d-e79c-4145-b9bf-da07c072cfac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Secondary_Sidebar-Categories-Mobile&quot;)</value>
+      <webElementGuid>bafa5483-20f6-4472-b3c3-d0cb875ad064</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='Secondary_Sidebar-Categories-Mobile']</value>
+      <webElementGuid>39ea5af8-7a2f-4d9e-870e-2267157a16c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-standard_cart']/div/div/div/div[2]/a[3]</value>
+      <webElementGuid>1f2266a9-2815-49ad-b9ab-9a07805e626a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Mobile')])[2]</value>
+      <webElementGuid>f03c529a-c28a-4294-bd04-793745ab81ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='License'])[2]/following::a[1]</value>
+      <webElementGuid>9e531c7f-3dfe-4699-8ea3-f02d0e8a17ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installation'])[2]/following::a[2]</value>
+      <webElementGuid>bd9fbf48-34cd-47fd-b09b-ab0cb1400d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[2]/preceding::a[1]</value>
+      <webElementGuid>b1b53452-fa1e-422e-9c2f-d1fcac3c063e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[2]/preceding::a[2]</value>
+      <webElementGuid>fb52e402-942f-4b7d-99d3-8bee3a9788d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/store/mobile')])[2]</value>
+      <webElementGuid>dde09214-241b-4f64-929a-f9b1afa001b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>c1a993f9-a4dc-48b4-a92a-8c961bc0274e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/store/mobile' and @id = 'Secondary_Sidebar-Categories-Mobile' and (text() = '
+Mobile
+' or . = '
+Mobile
+')]</value>
+      <webElementGuid>dad492d6-9718-40c4-8841-5f202d35e08f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

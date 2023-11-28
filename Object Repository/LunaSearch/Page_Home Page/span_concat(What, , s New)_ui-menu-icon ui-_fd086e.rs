@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_concat(What, , s New)_ui-menu-icon ui-_fd086e</name>
+   <tag></tag>
+   <elementGuidId>4cadd16a-370c-4130-a95d-7a260b25cb87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-menu-icon.ui-icon.ui-icon-carat-1-e</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-id-4']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a74086fa-5a78-46b9-8126-2bf4732d7b8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-menu-icon ui-icon ui-icon-carat-1-e</value>
+      <webElementGuid>eeb7d1fb-ed1e-419e-bda5-b700b6539e3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-4&quot;)/span[@class=&quot;ui-menu-icon ui-icon ui-icon-carat-1-e&quot;]</value>
+      <webElementGuid>5de8c2f9-6816-49c8-b17b-c3321b623ca8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-4']/span</value>
+      <webElementGuid>9d2e9863-c4f8-4008-8586-df7ffa43a4f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>30ada029-055c-4a87-a141-271ba876b9f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

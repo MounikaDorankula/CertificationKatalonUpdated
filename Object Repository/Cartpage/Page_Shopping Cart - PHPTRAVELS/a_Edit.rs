@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit</name>
+   <tag></tag>
+   <elementGuidId>e9c003fe-6d25-4d51-8d9b-bd9eb7e6c722</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-link.btn-xs</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='order-standard_cart']/div/div[2]/div[3]/div/form/div[2]/div/div/div/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aa387940-957f-49c3-b311-73126cdc3adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/cart.php?a=confproduct&amp;i=0</value>
+      <webElementGuid>7204d3c2-39c8-49a4-b0ff-a5856a83f8f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-link btn-xs</value>
+      <webElementGuid>342aa2af-6864-47e6-b6e0-d016c6dd4943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+Edit
+</value>
+      <webElementGuid>92c26342-a219-4355-ae0c-347f810237ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order-standard_cart&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;cart-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;secondary-cart-body&quot;]/form[1]/div[@class=&quot;view-cart-items&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-7&quot;]/span[@class=&quot;item-title&quot;]/a[@class=&quot;btn btn-link btn-xs&quot;]</value>
+      <webElementGuid>c1bc517f-5808-427f-9dce-9da2cf7785ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-standard_cart']/div/div[2]/div[3]/div/form/div[2]/div/div/div/span/a</value>
+      <webElementGuid>c5f1e88b-6d0a-420a-b895-78b87453523e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price/Cycle'])[1]/following::a[1]</value>
+      <webElementGuid>1926f1d7-39df-426d-961d-736860b9de6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile'])[4]/preceding::a[1]</value>
+      <webElementGuid>9fd24d28-5291-418d-adda-9df997d2335c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
+      <webElementGuid>9fe067c3-d66d-4eaf-bd79-e749274b30e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/cart.php?a=confproduct&amp;i=0')]</value>
+      <webElementGuid>835c7890-0f18-4fd6-b8da-284533b0f47e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>4c55f711-3b13-467e-a831-11c00116c6e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/cart.php?a=confproduct&amp;i=0' and (text() = '
+
+Edit
+' or . = '
+
+Edit
+')]</value>
+      <webElementGuid>e61e2b0f-b6d6-4552-a411-03f52cf11298</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

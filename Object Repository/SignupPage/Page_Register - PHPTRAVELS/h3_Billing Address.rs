@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Billing Address</name>
+   <tag></tag>
+   <elementGuidId>2e2ec1ec-8ff5-49c8-9d4c-a0af0030a817</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='containerNewUserSignup']/div[2]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>96562710-bdf2-4b63-b0e2-2b395424dee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>f1aa1eb9-57d5-433d-8f4c-615ddf92c0d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Billing Address</value>
+      <webElementGuid>b7ca69cf-ffb9-49c3-bed4-0a7a3971f077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;containerNewUserSignup&quot;)/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body p-4&quot;]/h3[@class=&quot;card-title&quot;]</value>
+      <webElementGuid>9e15aa38-3e05-4619-9efa-de0b29e7aa3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='containerNewUserSignup']/div[2]/div/h3</value>
+      <webElementGuid>1c564340-a8e3-44b6-94ff-3197a5c42688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Åland Islands'])[1]/following::h3[1]</value>
+      <webElementGuid>a769ee9b-743e-4fec-959a-88edc0e155bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zimbabwe'])[1]/following::h3[1]</value>
+      <webElementGuid>f0a4f5c8-e998-4a36-9721-4f5a400cb1f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Required Information'])[1]/preceding::h3[1]</value>
+      <webElementGuid>3f883e26-ac4c-47d3-be71-cc8f53c2ee8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile'])[2]/preceding::h3[2]</value>
+      <webElementGuid>86dcebff-b9d2-4d65-92e5-653310fe6fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Billing Address']/parent::*</value>
+      <webElementGuid>3ff4ec08-dfdf-4a8b-a6ef-0a8701a39131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h3</value>
+      <webElementGuid>41d50bdc-76a2-4e9f-91d6-887fedfe8ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Billing Address' or . = 'Billing Address')]</value>
+      <webElementGuid>f9e296d2-08cf-4b5c-83ed-50013eeeb6a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

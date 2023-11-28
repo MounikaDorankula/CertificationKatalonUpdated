@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Home</name>
+   <tag></tag>
+   <elementGuidId>4af2a338-55c4-4a5b-84d2-675ea85ecbdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Go to Home Page&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Home')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8b4b50c3-1b83-416d-af06-8cbff1acbdb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/</value>
+      <webElementGuid>c50abe78-a9b2-469c-bd81-c816b17a10f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Go to Home Page</value>
+      <webElementGuid>b280e831-033c-4509-8f14-4c5b8645f127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>24dce9cd-f26f-4004-a2d0-610eb99f10e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;catalog-product-view product-didi-sport-watch categorypath-gear-watches category-watches page-layout-1column&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;breadcrumbs&quot;]/ul[@class=&quot;items&quot;]/li[@class=&quot;item home&quot;]/a[1]</value>
+      <webElementGuid>8d86abfa-ae0d-4517-ac55-331377db9574</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Home')]</value>
+      <webElementGuid>fa6c06bb-ee57-440e-ba5c-d2baff63ad03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an Account'])[2]/following::a[1]</value>
+      <webElementGuid>2c2e8499-83c6-44ee-b412-1f845308181e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[2]/following::a[2]</value>
+      <webElementGuid>13810f55-ee86-4bfd-bb5e-cdc4894fe11b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Didi Sport Watch'])[2]/preceding::a[1]</value>
+      <webElementGuid>9c70027b-e862-40d5-8f04-0919db4313fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The requested qty is not available'])[1]/preceding::a[2]</value>
+      <webElementGuid>75999dbc-c5ee-4d29-b832-01c1543ca9ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
+      <webElementGuid>cd00a4e0-5389-423c-b9fb-20838d9f59c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://magento.softwaretestingboard.com/')])[34]</value>
+      <webElementGuid>1dcadad3-ddd7-40b2-8eb2-c560f5735fb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>b93eb274-77cc-421e-a10c-923a421f14d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/' and @title = 'Go to Home Page' and (text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>449f189d-17f2-4e78-9d2e-5a4d40da3d41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

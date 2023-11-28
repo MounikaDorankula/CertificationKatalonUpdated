@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Watches</name>
+   <tag></tag>
+   <elementGuidId>b1416fa6-4800-4edb-ae14-eb1405cd4b0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-id-27 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-id-27']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4868362-d1b5-44f5-a9d8-fd6ef3a9598b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Watches</value>
+      <webElementGuid>4c0040d7-5f91-4423-9128-7320e7ffb16f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-27&quot;)/span[1]</value>
+      <webElementGuid>d25a3292-0248-4d46-9586-aacefb910ca1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-27']/span</value>
+      <webElementGuid>fd1f65b8-4f2a-46a5-88fd-bab35ebbd805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fitness Equipment'])[1]/following::span[1]</value>
+      <webElementGuid>dabd1a27-a36f-4be5-8a20-87d8b31e3c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bags'])[1]/following::span[2]</value>
+      <webElementGuid>3a254891-ed84-445d-b935-0df7fb0ca936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training'])[1]/preceding::span[2]</value>
+      <webElementGuid>6f03e121-0a3c-4ac6-b5ad-b1d8d475f176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Download'])[1]/preceding::span[3]</value>
+      <webElementGuid>2e568b4f-92c7-4077-8bfb-99fbbf653f18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Watches']/parent::*</value>
+      <webElementGuid>aab0a87e-8b27-43c4-81c4-0770caab0421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[3]/a/span</value>
+      <webElementGuid>94bc4cbd-4b87-466d-9a31-a4d1bcbdd1d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Watches' or . = 'Watches')]</value>
+      <webElementGuid>d90d2e9f-5fe9-41c1-bcc2-176a91a6c637</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

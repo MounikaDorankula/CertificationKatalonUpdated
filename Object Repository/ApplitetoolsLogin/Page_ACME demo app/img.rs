@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>c98ff51b-fdfd-4877-9fcf-1608d414e7e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.avatar-w > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6203ac7a-103c-4455-93fb-b1eb95a1c1c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>img/avatar1.jpg</value>
+      <webElementGuid>c2398922-3b55-435f-957c-87704e798173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;menu-position-side menu-side-left full-screen&quot;]/div[@class=&quot;all-wrapper solid-bg-all&quot;]/div[@class=&quot;top-bar color-scheme-bright&quot;]/div[@class=&quot;top-menu-controls&quot;]/div[@class=&quot;logged-user-w&quot;]/div[@class=&quot;logged-user-i&quot;]/div[@class=&quot;avatar-w&quot;]/img[1]</value>
+      <webElementGuid>3e1065e5-2bec-4e80-b479-ea9c4d282ee7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/img</value>
+      <webElementGuid>33adb261-d77b-4aaa-bb89-b7b14e70e467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'img/avatar1.jpg']</value>
+      <webElementGuid>08bbd226-6de0-4d4e-b2ad-5efb2b5a323f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

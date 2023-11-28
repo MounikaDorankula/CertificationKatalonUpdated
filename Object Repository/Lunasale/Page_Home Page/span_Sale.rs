@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sale</name>
+   <tag></tag>
+   <elementGuidId>22acd6a5-9642-44d3-a3fc-ec46038aa645</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-id-8 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-id-8']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d9cb7bab-1c65-48fc-96ec-d10e0d5b4bd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sale</value>
+      <webElementGuid>01b6a572-03af-471e-bcf2-e283eeab5831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-8&quot;)/span[1]</value>
+      <webElementGuid>44ebf974-e6f6-46f5-864e-1a83e08c80db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-8']/span</value>
+      <webElementGuid>c9630454-a4d9-44f1-9803-89de8c86011d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Download'])[1]/following::span[1]</value>
+      <webElementGuid>82e6d2c5-addb-4f86-89fb-3974e35e449f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training'])[1]/following::span[2]</value>
+      <webElementGuid>7e90b3d7-7c66-4290-81dc-9f99ac870152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/preceding::span[1]</value>
+      <webElementGuid>65b5f468-a2ea-446a-854f-7e56d74ff8f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click “Write for us” link in the footer to submit a guest post'])[2]/preceding::span[1]</value>
+      <webElementGuid>b56a096b-b01f-4fd4-965d-80be198bd603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sale']/parent::*</value>
+      <webElementGuid>c28fbeb4-bbb3-4781-bdbf-71421ec2a6b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/span</value>
+      <webElementGuid>cace6ba7-1c15-4f64-bfa3-f5391265ce1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sale' or . = 'Sale')]</value>
+      <webElementGuid>fb6ef461-00e5-449c-8021-d87a3e7e262c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

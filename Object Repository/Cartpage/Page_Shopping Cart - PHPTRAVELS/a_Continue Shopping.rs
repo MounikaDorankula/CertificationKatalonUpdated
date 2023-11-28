@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Continue Shopping</name>
+   <tag></tag>
+   <elementGuidId>8fbd97b2-cd89-4db3-ba06-b9aa5f3e9d15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#continueShopping</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='continueShopping']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d8fcccf7-a168-405f-a01d-17871fed5995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>cart.php</value>
+      <webElementGuid>939ec63a-ba00-434a-a9d2-070d86d71c17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-link btn-continue-shopping</value>
+      <webElementGuid>4e5fd106-9503-4179-9bcc-ed9e18bc3adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>continueShopping</value>
+      <webElementGuid>cadea4bd-32bc-4587-99ae-4eaf8c69275f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Continue Shopping
+</value>
+      <webElementGuid>779a153f-9297-456b-a006-55240db3528d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;continueShopping&quot;)</value>
+      <webElementGuid>34386c22-af7b-48bf-a7e1-33cb858a31eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='continueShopping']</value>
+      <webElementGuid>d9aaef55-fb48-49a0-aa8b-9f5d7311cd7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='orderSummary']/div[2]/div[5]/a[2]</value>
+      <webElementGuid>41f95c42-a7c6-45b5-a263-ff8bc0c5686d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Continue Shopping')]</value>
+      <webElementGuid>6ee08d82-96a5-4774-bd0c-d7b96dda2bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::a[1]</value>
+      <webElementGuid>317145d0-26fb-4639-a031-b6e2d89de8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Due Today'])[1]/following::a[2]</value>
+      <webElementGuid>b5e50473-68c2-4d76-b2dc-8f7a8db6969b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove Item'])[1]/preceding::a[1]</value>
+      <webElementGuid>4f46ead1-8c53-4e15-b3b4-538da6448591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue Shopping']/parent::*</value>
+      <webElementGuid>9f919c53-c8e1-4f39-a7f8-ca25ee3465c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'cart.php')])[5]</value>
+      <webElementGuid>6397fe2f-5584-44c8-a358-384030b3e75e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a[2]</value>
+      <webElementGuid>a47190dd-f964-4bb0-b1b9-02b37287b86c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'cart.php' and @id = 'continueShopping' and (text() = '
+Continue Shopping
+' or . = '
+Continue Shopping
+')]</value>
+      <webElementGuid>a7733c0a-8f93-41f9-a06d-2b7dab970fc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

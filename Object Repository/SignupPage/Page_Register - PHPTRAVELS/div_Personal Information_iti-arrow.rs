@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Personal Information_iti-arrow</name>
+   <tag></tag>
+   <elementGuidId>5331dfbb-39bf-4094-be6b-f36be39fec87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.iti-arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='containerNewUserSignup']/div/div/div/div[4]/div/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c3ef1644-b5a0-4690-9ab3-63532077059d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iti-arrow</value>
+      <webElementGuid>ae0fca25-9bbb-48eb-99f1-923e1dc5a134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;containerNewUserSignup&quot;)/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body p-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;form-group prepend-icon&quot;]/div[@class=&quot;intl-tel-input allow-dropdown separate-dial-code iti-sdc-3&quot;]/div[@class=&quot;flag-container&quot;]/div[@class=&quot;selected-flag&quot;]/div[@class=&quot;iti-arrow&quot;]</value>
+      <webElementGuid>d6758007-1e47-4354-97d3-3c500eba1a94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='containerNewUserSignup']/div/div/div/div[4]/div/div/div/div/div[3]</value>
+      <webElementGuid>d9dbb4b2-fecb-44e1-af5e-f38499b5ad40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div[3]</value>
+      <webElementGuid>386f8aa3-38f7-4284-a0ed-72a3d5f18b2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

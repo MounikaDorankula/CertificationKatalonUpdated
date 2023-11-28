@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forgot Password</name>
+   <tag></tag>
+   <elementGuidId>04a76cdb-85c5-43f7-9d19-04a8c923be31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.small.text-muted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-body']/div/div/div/form/div/div/div[3]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d3a102a4-8a35-4ea4-b73f-7a360b31171c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/password/reset</value>
+      <webElementGuid>a05605e2-b839-476d-9a09-309efdfb2512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>small text-muted</value>
+      <webElementGuid>8eaa1cdc-789e-4765-9932-d98897a4e214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>aaa9fc6e-af4b-4692-8b91-461cd60fafc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot Password?</value>
+      <webElementGuid>222b278a-3041-4f96-82e1-b6d0d7c66369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-body&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 primary-content&quot;]/form[@class=&quot;login-form&quot;]/div[@class=&quot;card mw-540 mb-md-4 mt-md-4&quot;]/div[@class=&quot;card-body px-sm-5 py-5&quot;]/div[@class=&quot;form-group mb-4 focused&quot;]/div[@class=&quot;d-flex align-items-center justify-content-between&quot;]/div[@class=&quot;mb-2&quot;]/a[@class=&quot;small text-muted&quot;]</value>
+      <webElementGuid>c7414990-6142-49b8-a1e1-64a194fd9588</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-body']/div/div/div/form/div/div/div[3]/div/div/a</value>
+      <webElementGuid>ea684c26-48f6-4a49-a184-e4d85692c8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Forgot Password?')])[2]</value>
+      <webElementGuid>838ea6cc-571c-4528-b4a9-cfba179297d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::a[1]</value>
+      <webElementGuid>445fe659-c0f6-435e-9ea9-e11f6b21a41b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::a[1]</value>
+      <webElementGuid>0df88569-c55d-4e22-9464-5d364da8d2f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[3]/preceding::a[1]</value>
+      <webElementGuid>3ab7d0c3-51b6-4675-ae9d-37007d6725ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/password/reset')])[2]</value>
+      <webElementGuid>8bc471ba-269f-4929-8730-0982d10c5a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a</value>
+      <webElementGuid>4bb9b945-29d6-4612-8184-6bafce7349a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/password/reset' and (text() = 'Forgot Password?' or . = 'Forgot Password?')]</value>
+      <webElementGuid>3e6a1a0e-2e70-4d15-b35f-d481f162b859</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

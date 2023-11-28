@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Luna" time="487.47" tests="8" failures="0" errors="0">
+   <testsuite name="Luna" tests="8" failures="0" errors="0" time="487.47" skipped="0" timestamp="2023-11-27 18:59:54" hostname="Praveen Reddy - LAPTOP-FO4697CL" id="Test Suites/Luna">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\phlv5\\Katalon Studio\\PHPTravel\\Reports\\20231127_185943\\Luna\\20231127_185943"/>
+         <property name="logFiles" value="C:\\Users\\phlv5\\Katalon Studio\\PHPTravel\\Reports\\20231127_185943\\Luna\\20231127_185943\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Praveen Reddy - LAPTOP-FO4697CL"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 119.0.0.0"/>
+         <property name="hostAddress" value="192.168.108.65"/>
+         <property name="sessionId" value="fd2e9e897352f803ab44954585734fa1"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/LunaCreateAccount" time="27.703" classname="Test Cases/LunaCreateAccount" status="PASSED">
+         <system-out><![CDATA[2023-11-27 18:59:54 - [TEST_CASE][PASSED] - Test Cases/LunaCreateAccount: Test Cases/LunaCreateAccount
+
+2023-11-27 18:59:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-27 18:59:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-27 18:59:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-27 18:59:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-27 18:59:57 - [TEST_STEP][PASSED] - navigateToUrl("https://magento.softwaretestingboard.com/"): Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:00:02 - [MESSAGE][PASSED] - Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:00:02 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-27 19:00:03 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-27 19:00:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaCreateAccount/Page_Home Page/a_Create an Account")): Object: 'Object Repository/LunaCreateAccount/Page_Home Page/a_Create an Account' is clicked on
+
+2023-11-27 19:00:06 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaCreateAccount/Page_Home Page/a_Create an Account' is clicked on
+
+2023-11-27 19:00:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_First Name_firstname"), "Test"): Text 'Test' is set on object 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_First Name_firstname'
+
+2023-11-27 19:00:07 - [MESSAGE][PASSED] - Text 'Test' is set on object 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_First Name_firstname'
+
+2023-11-27 19:00:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Last Name_lastname"), "User"): Text 'User' is set on object 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Last Name_lastname'
+
+2023-11-27 19:00:08 - [MESSAGE][PASSED] - Text 'User' is set on object 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Last Name_lastname'
+
+2023-11-27 19:00:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Email_email"), "test@gmail.com"): Text 'test@gmail.com' is set on object 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Email_email'
+
+2023-11-27 19:00:09 - [MESSAGE][PASSED] - Text 'test@gmail.com' is set on object 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Email_email'
+
+2023-11-27 19:00:09 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Password_password"), "cvW8qx4B2o3F4VwP/kNsqA=="): Text ****** has been set on object 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Password_password'
+
+2023-11-27 19:00:10 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Password_password'
+
+2023-11-27 19:00:10 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Confirm Password_password_confirmation"), "cvW8qx4B2o3F4VwP/kNsqA=="): Text ****** has been set on object 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Confirm Password_password_confirmation'
+
+2023-11-27 19:00:11 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Confirm Password_password_confirmation'
+
+2023-11-27 19:00:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaCreateAccount/Page_Create New Customer Account/span_Create an Account")): Object: 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/span_Create an Account' is clicked on
+
+2023-11-27 19:00:18 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/span_Create an Account' is clicked on
+
+2023-11-27 19:00:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaCreateAccount/Page_Create New Customer Account/img")): Object: 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/img' is clicked on
+
+2023-11-27 19:00:21 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaCreateAccount/Page_Create New Customer Account/img' is clicked on
+
+2023-11-27 19:00:21 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-27 19:00:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LunaSignIn" time="23.818" classname="Test Cases/LunaSignIn" status="PASSED">
+         <system-out><![CDATA[2023-11-27 19:00:22 - [TEST_CASE][PASSED] - Test Cases/LunaSignIn: Test Cases/LunaSignIn
+
+2023-11-27 19:00:23 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-27 19:00:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-27 19:00:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-27 19:00:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-27 19:00:24 - [TEST_STEP][PASSED] - navigateToUrl("https://magento.softwaretestingboard.com/"): Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:00:28 - [MESSAGE][PASSED] - Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:00:28 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-27 19:00:28 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-27 19:00:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaSignIn/Page_Home Page/a_Sign In")): Object: 'Object Repository/LunaSignIn/Page_Home Page/a_Sign In' is clicked on
+
+2023-11-27 19:00:34 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaSignIn/Page_Home Page/a_Sign In' is clicked on
+
+2023-11-27 19:00:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/LunaSignIn/Page_Customer Login/input_Email_loginusername"), "test@gmail.com"): Text 'test@gmail.com' is set on object 'Object Repository/LunaSignIn/Page_Customer Login/input_Email_loginusername'
+
+2023-11-27 19:00:36 - [MESSAGE][PASSED] - Text 'test@gmail.com' is set on object 'Object Repository/LunaSignIn/Page_Customer Login/input_Email_loginusername'
+
+2023-11-27 19:00:36 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/LunaSignIn/Page_Customer Login/input_Password_loginpassword"), "cvW8qx4B2o3F4VwP/kNsqA=="): Text ****** has been set on object 'Object Repository/LunaSignIn/Page_Customer Login/input_Password_loginpassword'
+
+2023-11-27 19:00:36 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/LunaSignIn/Page_Customer Login/input_Password_loginpassword'
+
+2023-11-27 19:00:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaSignIn/Page_Customer Login/span_Sign In")): Object: 'Object Repository/LunaSignIn/Page_Customer Login/span_Sign In' is clicked on
+
+2023-11-27 19:00:41 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaSignIn/Page_Customer Login/span_Sign In' is clicked on
+
+2023-11-27 19:00:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaSignIn/Page_Customer Login/img")): Object: 'Object Repository/LunaSignIn/Page_Customer Login/img' is clicked on
+
+2023-11-27 19:00:45 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaSignIn/Page_Customer Login/img' is clicked on
+
+2023-11-27 19:00:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-27 19:00:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LunaForgotPassword" time="25.714" classname="Test Cases/LunaForgotPassword" status="PASSED">
+         <system-out><![CDATA[2023-11-27 19:00:46 - [TEST_CASE][PASSED] - Test Cases/LunaForgotPassword: Test Cases/LunaForgotPassword
+
+2023-11-27 19:00:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-27 19:00:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-27 19:00:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-27 19:00:48 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-27 19:00:48 - [TEST_STEP][PASSED] - navigateToUrl("https://magento.softwaretestingboard.com/"): Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:00:54 - [MESSAGE][PASSED] - Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:00:54 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-27 19:00:54 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-27 19:00:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaForgotPassword/Page_Home Page/a_Sign In")): Object: 'Object Repository/LunaForgotPassword/Page_Home Page/a_Sign In' is clicked on
+
+2023-11-27 19:00:59 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaForgotPassword/Page_Home Page/a_Sign In' is clicked on
+
+2023-11-27 19:00:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaForgotPassword/Page_Customer Login/span_Forgot Your Password")): Object: 'Object Repository/LunaForgotPassword/Page_Customer Login/span_Forgot Your Password' is clicked on
+
+2023-11-27 19:01:02 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaForgotPassword/Page_Customer Login/span_Forgot Your Password' is clicked on
+
+2023-11-27 19:01:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/LunaForgotPassword/Page_Forgot Your Password/input_Email_email"), "test@gmail.com"): Text 'test@gmail.com' is set on object 'Object Repository/LunaForgotPassword/Page_Forgot Your Password/input_Email_email'
+
+2023-11-27 19:01:03 - [MESSAGE][PASSED] - Text 'test@gmail.com' is set on object 'Object Repository/LunaForgotPassword/Page_Forgot Your Password/input_Email_email'
+
+2023-11-27 19:01:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaForgotPassword/Page_Forgot Your Password/span_Reset My Password")): Object: 'Object Repository/LunaForgotPassword/Page_Forgot Your Password/span_Reset My Password' is clicked on
+
+2023-11-27 19:01:07 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaForgotPassword/Page_Forgot Your Password/span_Reset My Password' is clicked on
+
+2023-11-27 19:01:07 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/LunaForgotPassword/Page_Customer Login/div_If there is an account associated with _63f896")): Object 'Object Repository/LunaForgotPassword/Page_Customer Login/div_If there is an account associated with _63f896' is visible
+
+2023-11-27 19:01:08 - [MESSAGE][PASSED] - Object 'Object Repository/LunaForgotPassword/Page_Customer Login/div_If there is an account associated with _63f896' is visible
+
+2023-11-27 19:01:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaForgotPassword/Page_Customer Login/img")): Object: 'Object Repository/LunaForgotPassword/Page_Customer Login/img' is clicked on
+
+2023-11-27 19:01:10 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaForgotPassword/Page_Customer Login/img' is clicked on
+
+2023-11-27 19:01:10 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-27 19:01:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LunaGear" time="46.988" classname="Test Cases/LunaGear" status="PASSED">
+         <system-out><![CDATA[2023-11-27 19:01:11 - [TEST_CASE][PASSED] - Test Cases/LunaGear: Test Cases/LunaGear
+
+2023-11-27 19:01:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-27 19:01:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-27 19:01:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-27 19:01:13 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-27 19:01:13 - [TEST_STEP][PASSED] - navigateToUrl("https://magento.softwaretestingboard.com/"): Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:01:25 - [MESSAGE][PASSED] - Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:01:25 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-27 19:01:25 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-27 19:01:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaGearBags/Page_Home Page/span_Shorts_ui-menu-icon ui-icon ui-icon-carat-1-e")): Object: 'Object Repository/LunaGearBags/Page_Home Page/span_Shorts_ui-menu-icon ui-icon ui-icon-carat-1-e' is clicked on
+
+2023-11-27 19:01:35 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaGearBags/Page_Home Page/span_Shorts_ui-menu-icon ui-icon ui-icon-carat-1-e' is clicked on
+
+2023-11-27 19:01:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaGearBags/Page_Gear/a_Bags")): Object: 'Object Repository/LunaGearBags/Page_Gear/a_Bags' is clicked on
+
+2023-11-27 19:01:40 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaGearBags/Page_Gear/a_Bags' is clicked on
+
+2023-11-27 19:01:40 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/LunaGearBags/Page_Bags - Gear/a_Push It Messenger Bag")): Object: 'Object Repository/LunaGearBags/Page_Bags - Gear/a_Push It Messenger Bag' is hovered
+
+2023-11-27 19:01:40 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaGearBags/Page_Bags - Gear/a_Push It Messenger Bag' is hovered
+
+2023-11-27 19:01:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaGearBags/Page_Bags - Gear/span_Add to Cart")): Object: 'Object Repository/LunaGearBags/Page_Bags - Gear/span_Add to Cart' is clicked on
+
+2023-11-27 19:01:41 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaGearBags/Page_Bags - Gear/span_Add to Cart' is clicked on
+
+2023-11-27 19:01:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaGearBags/Page_Push It Messenger Bag/a_More Information")): Object: 'Object Repository/LunaGearBags/Page_Push It Messenger Bag/a_More Information' is clicked on
+
+2023-11-27 19:01:49 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaGearBags/Page_Push It Messenger Bag/a_More Information' is clicked on
+
+2023-11-27 19:01:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaGearBags/Page_Push It Messenger Bag/a_Reviews 3")): Object: 'Object Repository/LunaGearBags/Page_Push It Messenger Bag/a_Reviews 3' is clicked on
+
+2023-11-27 19:01:50 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaGearBags/Page_Push It Messenger Bag/a_Reviews 3' is clicked on
+
+2023-11-27 19:01:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaGearBags/Page_Push It Messenger Bag/span_Add to Wish List")): Object: 'Object Repository/LunaGearBags/Page_Push It Messenger Bag/span_Add to Wish List' is clicked on
+
+2023-11-27 19:01:56 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaGearBags/Page_Push It Messenger Bag/span_Add to Wish List' is clicked on
+
+2023-11-27 19:01:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaGearBags/Page_Customer Login/img")): Object: 'Object Repository/LunaGearBags/Page_Customer Login/img' is clicked on
+
+2023-11-27 19:01:58 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaGearBags/Page_Customer Login/img' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LunaSale" time="225.686" classname="Test Cases/LunaSale" status="PASSED">
+         <system-out><![CDATA[2023-11-27 19:01:58 - [TEST_CASE][PASSED] - Test Cases/LunaSale: Test Cases/LunaSale
+
+2023-11-27 19:01:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-27 19:01:59 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-11-27 19:02:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-27 19:02:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-27 19:02:02 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-27 19:02:02 - [TEST_STEP][PASSED] - navigateToUrl("https://magento.softwaretestingboard.com/"): Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:02:51 - [MESSAGE][PASSED] - Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:02:51 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-27 19:02:51 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-27 19:02:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Lunasale/Page_Home Page/span_Sale")): Object: 'Object Repository/Lunasale/Page_Home Page/span_Sale' is clicked on
+
+2023-11-27 19:05:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Lunasale/Page_Home Page/span_Sale' is clicked on
+
+2023-11-27 19:05:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Lunasale/Page_Sale/a_Tees")): Object: 'Object Repository/Lunasale/Page_Sale/a_Tees' is clicked on
+
+2023-11-27 19:05:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Lunasale/Page_Sale/a_Tees' is clicked on
+
+2023-11-27 19:05:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Lunasale/Page_Tees - Tops - Women/div_XS")): Object: 'Object Repository/Lunasale/Page_Tees - Tops - Women/div_XS' is clicked on
+
+2023-11-27 19:05:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Lunasale/Page_Tees - Tops - Women/div_XS' is clicked on
+
+2023-11-27 19:05:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Lunasale/Page_Tees - Tops - Women/span_Add to Cart")): Object: 'Object Repository/Lunasale/Page_Tees - Tops - Women/span_Add to Cart' is clicked on
+
+2023-11-27 19:05:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Lunasale/Page_Tees - Tops - Women/span_Add to Cart' is clicked on
+
+2023-11-27 19:05:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Lunasale/Page_Desiree Fitness Tee/div_Color_option-label-color-93-item-49")): Object: 'Object Repository/Lunasale/Page_Desiree Fitness Tee/div_Color_option-label-color-93-item-49' is clicked on
+
+2023-11-27 19:05:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Lunasale/Page_Desiree Fitness Tee/div_Color_option-label-color-93-item-49' is clicked on
+
+2023-11-27 19:05:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Lunasale/Page_Desiree Fitness Tee/span_Add to Wish List")): Object: 'Object Repository/Lunasale/Page_Desiree Fitness Tee/span_Add to Wish List' is clicked on
+
+2023-11-27 19:05:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Lunasale/Page_Desiree Fitness Tee/span_Add to Wish List' is clicked on
+
+2023-11-27 19:05:39 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+2023-11-27 19:05:41 - [MESSAGE][PASSED] - Navigate back successfully
+
+2023-11-27 19:05:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Lunasale/Page_Customer Login/img")): Object: 'Object Repository/Lunasale/Page_Customer Login/img' is clicked on
+
+2023-11-27 19:05:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Lunasale/Page_Customer Login/img' is clicked on
+
+2023-11-27 19:05:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-27 19:05:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LunaSearch" time="26.079" classname="Test Cases/LunaSearch" status="PASSED">
+         <system-out><![CDATA[2023-11-27 19:05:44 - [TEST_CASE][PASSED] - Test Cases/LunaSearch: Test Cases/LunaSearch
+
+2023-11-27 19:05:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-27 19:05:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-27 19:05:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-27 19:05:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-27 19:05:46 - [TEST_STEP][PASSED] - navigateToUrl("https://magento.softwaretestingboard.com/"): Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:05:52 - [MESSAGE][PASSED] - Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:05:52 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-27 19:05:52 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-27 19:05:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaSearch/Page_Home Page/span_concat(What, , s New)_ui-menu-icon ui-_fd086e")): Object: 'Object Repository/LunaSearch/Page_Home Page/span_concat(What, , s New)_ui-menu-icon ui-_fd086e' is clicked on
+
+2023-11-27 19:05:59 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaSearch/Page_Home Page/span_concat(What, , s New)_ui-menu-icon ui-_fd086e' is clicked on
+
+2023-11-27 19:05:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaSearch/Page_Women/a_Tops")): Object: 'Object Repository/LunaSearch/Page_Women/a_Tops' is clicked on
+
+2023-11-27 19:06:03 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaSearch/Page_Women/a_Tops' is clicked on
+
+2023-11-27 19:06:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaSearch/Page_Tops - Women/div_Category")): Object: 'Object Repository/LunaSearch/Page_Tops - Women/div_Category' is clicked on
+
+2023-11-27 19:06:04 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaSearch/Page_Tops - Women/div_Category' is clicked on
+
+2023-11-27 19:06:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaSearch/Page_Tops - Women/a_Jackets 12item")): Object: 'Object Repository/LunaSearch/Page_Tops - Women/a_Jackets 12item' is clicked on
+
+2023-11-27 19:06:08 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaSearch/Page_Tops - Women/a_Jackets 12item' is clicked on
+
+2023-11-27 19:06:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaSearch/Page_Tops - Women/span_Clear All")): Object: 'Object Repository/LunaSearch/Page_Tops - Women/span_Clear All' is clicked on
+
+2023-11-27 19:06:09 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaSearch/Page_Tops - Women/span_Clear All' is clicked on
+
+2023-11-27 19:06:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-27 19:06:10 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LunaSearchApparel" time="78.414" classname="Test Cases/LunaSearchApparel" status="PASSED">
+         <system-out><![CDATA[2023-11-27 19:06:10 - [TEST_CASE][PASSED] - Test Cases/LunaSearchApparel: Test Cases/LunaSearchApparel
+
+2023-11-27 19:06:11 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-27 19:06:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-27 19:06:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-27 19:06:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-27 19:06:12 - [TEST_STEP][PASSED] - navigateToUrl("https://magento.softwaretestingboard.com/"): Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:06:26 - [MESSAGE][PASSED] - Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:06:26 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-27 19:06:27 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-27 19:06:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaMenApparel/Page_Home Page/span_Shorts_ui-menu-icon ui-icon ui-icon-carat-1-e")): Object: 'Object Repository/LunaMenApparel/Page_Home Page/span_Shorts_ui-menu-icon ui-icon ui-icon-carat-1-e' is clicked on
+
+2023-11-27 19:06:40 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaMenApparel/Page_Home Page/span_Shorts_ui-menu-icon ui-icon ui-icon-carat-1-e' is clicked on
+
+2023-11-27 19:06:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaMenApparel/Page_Men/a_Bottoms")): Object: 'Object Repository/LunaMenApparel/Page_Men/a_Bottoms' is clicked on
+
+2023-11-27 19:06:47 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaMenApparel/Page_Men/a_Bottoms' is clicked on
+
+2023-11-27 19:06:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaMenApparel/Page_Bottoms - Men/div_Category")): Object: 'Object Repository/LunaMenApparel/Page_Bottoms - Men/div_Category' is clicked on
+
+2023-11-27 19:06:48 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaMenApparel/Page_Bottoms - Men/div_Category' is clicked on
+
+2023-11-27 19:06:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaMenApparel/Page_Bottoms - Men/a_Pants 12item")): Object: 'Object Repository/LunaMenApparel/Page_Bottoms - Men/a_Pants 12item' is clicked on
+
+2023-11-27 19:06:55 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaMenApparel/Page_Bottoms - Men/a_Pants 12item' is clicked on
+
+2023-11-27 19:06:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaMenApparel/Page_Bottoms - Men/div_33")): Object: 'Object Repository/LunaMenApparel/Page_Bottoms - Men/div_33' is clicked on
+
+2023-11-27 19:06:56 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaMenApparel/Page_Bottoms - Men/div_33' is clicked on
+
+2023-11-27 19:06:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaMenApparel/Page_Bottoms - Men/div_48.00_option-label-color-93-item-49")): Object: 'Object Repository/LunaMenApparel/Page_Bottoms - Men/div_48.00_option-label-color-93-item-49' is clicked on
+
+2023-11-27 19:06:57 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaMenApparel/Page_Bottoms - Men/div_48.00_option-label-color-93-item-49' is clicked on
+
+2023-11-27 19:06:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaMenApparel/Page_Bottoms - Men/button_Add to Cart")): Object: 'Object Repository/LunaMenApparel/Page_Bottoms - Men/button_Add to Cart' is clicked on
+
+2023-11-27 19:06:59 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaMenApparel/Page_Bottoms - Men/button_Add to Cart' is clicked on
+
+2023-11-27 19:06:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaMenApparel/Page_Bottoms - Men/a_shopping cart")): Object: 'Object Repository/LunaMenApparel/Page_Bottoms - Men/a_shopping cart' is clicked on
+
+2023-11-27 19:07:21 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaMenApparel/Page_Bottoms - Men/a_shopping cart' is clicked on
+
+2023-11-27 19:07:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaMenApparel/Page_Shopping Cart/img")): Object: 'Object Repository/LunaMenApparel/Page_Shopping Cart/img' is clicked on
+
+2023-11-27 19:07:28 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaMenApparel/Page_Shopping Cart/img' is clicked on
+
+2023-11-27 19:07:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-27 19:07:29 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LunaWatches" time="32.544" classname="Test Cases/LunaWatches" status="PASSED">
+         <system-out><![CDATA[2023-11-27 19:07:29 - [TEST_CASE][PASSED] - Test Cases/LunaWatches: Test Cases/LunaWatches
+
+2023-11-27 19:07:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-27 19:07:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-27 19:07:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-27 19:07:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-27 19:07:31 - [TEST_STEP][PASSED] - navigateToUrl("https://magento.softwaretestingboard.com/"): Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:07:38 - [MESSAGE][PASSED] - Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-11-27 19:07:38 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-27 19:07:38 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-27 19:07:38 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/LunaWatches/Page_Home Page/a_Gear")): Object: 'Object Repository/LunaWatches/Page_Home Page/a_Gear' is hovered
+
+2023-11-27 19:07:40 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaWatches/Page_Home Page/a_Gear' is hovered
+
+2023-11-27 19:07:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaWatches/Page_Gear/span_Watches")): Object: 'Object Repository/LunaWatches/Page_Gear/span_Watches' is clicked on
+
+2023-11-27 19:07:44 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaWatches/Page_Gear/span_Watches' is clicked on
+
+2023-11-27 19:07:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaWatches/Page_Watches - Gear/a_List")): Object: 'Object Repository/LunaWatches/Page_Watches - Gear/a_List' is clicked on
+
+2023-11-27 19:07:47 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaWatches/Page_Watches - Gear/a_List' is clicked on
+
+2023-11-27 19:07:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaWatches/Page_Watches - Gear/button_Add to Cart")): Object: 'Object Repository/LunaWatches/Page_Watches - Gear/button_Add to Cart' is clicked on
+
+2023-11-27 19:07:48 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaWatches/Page_Watches - Gear/button_Add to Cart' is clicked on
+
+2023-11-27 19:07:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/LunaWatches/Page_Didi Sport Watch/input_Qty_qty"), "4"): Text '4' is set on object 'Object Repository/LunaWatches/Page_Didi Sport Watch/input_Qty_qty'
+
+2023-11-27 19:07:55 - [MESSAGE][PASSED] - Text '4' is set on object 'Object Repository/LunaWatches/Page_Didi Sport Watch/input_Qty_qty'
+
+2023-11-27 19:07:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaWatches/Page_Didi Sport Watch/span_Add to Cart")): Object: 'Object Repository/LunaWatches/Page_Didi Sport Watch/span_Add to Cart' is clicked on
+
+2023-11-27 19:07:55 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaWatches/Page_Didi Sport Watch/span_Add to Cart' is clicked on
+
+2023-11-27 19:07:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/LunaWatches/Page_Didi Sport Watch/a_Home")): Object: 'Object Repository/LunaWatches/Page_Didi Sport Watch/a_Home' is clicked on
+
+2023-11-27 19:08:01 - [MESSAGE][PASSED] - Object: 'Object Repository/LunaWatches/Page_Didi Sport Watch/a_Home' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-11-27 18:59:54 - [TEST_SUITE][PASSED] - Luna: Test Cases/LunaWatches]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

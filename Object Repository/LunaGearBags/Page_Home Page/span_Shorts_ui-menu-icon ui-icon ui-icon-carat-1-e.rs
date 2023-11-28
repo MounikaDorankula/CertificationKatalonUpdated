@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Shorts_ui-menu-icon ui-icon ui-icon-carat-1-e</name>
+   <tag></tag>
+   <elementGuidId>9acc3c27-1fec-47f3-8cc9-902a24cc5773</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-id-6 > span.ui-menu-icon.ui-icon.ui-icon-carat-1-e</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-id-6']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f913c02d-bf80-40b5-8df8-fbd8e662138b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-menu-icon ui-icon ui-icon-carat-1-e</value>
+      <webElementGuid>ad13dae3-6ad6-45f4-9b9b-c5ccedc1797e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-6&quot;)/span[@class=&quot;ui-menu-icon ui-icon ui-icon-carat-1-e&quot;]</value>
+      <webElementGuid>fabc724e-985e-4536-9fe6-de666ef2c3a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-6']/span</value>
+      <webElementGuid>bf3542ea-3132-433f-af11-a15a7b21eec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span</value>
+      <webElementGuid>b2433f2c-28b2-4689-b8bb-5cf8517f31db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

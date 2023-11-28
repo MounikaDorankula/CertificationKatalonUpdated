@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_United States1</name>
+   <tag></tag>
+   <elementGuidId>0a8d2d03-f748-4b4d-ad7b-96e356324b55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.country.preferred.highlight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='containerNewUserSignup']/div/div/div/div[4]/div/div/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>1aa67177-a4ae-4d93-9b9a-3d1e06ba5fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>country preferred highlight</value>
+      <webElementGuid>cf44102a-7e10-4324-af5a-63fa26fe1f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dial-code</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>130227f2-8f1e-4119-a7b4-30220080060a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-country-code</name>
+      <type>Main</type>
+      <value>us</value>
+      <webElementGuid>001fedb1-497e-4da8-9a8b-7a6ebbd9522c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>United States+1</value>
+      <webElementGuid>6148f413-cf78-4624-8456-6ae7a09a979e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;containerNewUserSignup&quot;)/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body p-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;form-group prepend-icon&quot;]/div[@class=&quot;intl-tel-input allow-dropdown separate-dial-code iti-sdc-3&quot;]/div[@class=&quot;flag-container&quot;]/ul[@class=&quot;country-list&quot;]/li[@class=&quot;country preferred highlight&quot;]</value>
+      <webElementGuid>1b8a902f-b639-436e-9eac-1a6c97f48642</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='containerNewUserSignup']/div/div/div/div[4]/div/div/div/ul/li[2]</value>
+      <webElementGuid>17b8f791-de75-4acc-982b-8403219ac2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pakistan (‫پاکستان‬‎)'])[1]/following::li[1]</value>
+      <webElementGuid>53478381-0c32-4413-91e3-9c3d3902ba85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Information'])[1]/following::li[2]</value>
+      <webElementGuid>38842c3d-ec3c-441a-a68e-ff397230bdd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United Kingdom'])[1]/preceding::li[1]</value>
+      <webElementGuid>b4b57128-c43b-436e-8959-3ba829d668bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/ul/li[2]</value>
+      <webElementGuid>60f26ddf-a23e-44ee-ac51-8cfc44287d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'United States+1' or . = 'United States+1')]</value>
+      <webElementGuid>7cec403c-0ead-4a58-91c1-5f76491ba1d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

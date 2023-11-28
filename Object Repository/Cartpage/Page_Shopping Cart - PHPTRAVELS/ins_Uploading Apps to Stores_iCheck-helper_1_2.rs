@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ins_Uploading Apps to Stores_iCheck-helper_1_2</name>
+   <tag></tag>
+   <elementGuidId>3fd2ab69-a728-43c6-a1c9-4635ac1bd962</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ins.iCheck-helper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmConfigureProduct']/div/div/div[4]/div/div/div/label/div/ins</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ins</value>
+      <webElementGuid>77138060-e918-427b-ac61-2e29e344b597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iCheck-helper</value>
+      <webElementGuid>8da0d807-0e33-4587-af20-74adcff9d19e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmConfigureProduct&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;secondary-cart-body&quot;]/div[@class=&quot;row addon-products&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;panel card panel-default panel-addon panel-addon-selected&quot;]/div[@class=&quot;panel-body card-body&quot;]/label[@class=&quot;hover&quot;]/div[@class=&quot;icheckbox_square-blue checked focus hover&quot;]/ins[@class=&quot;iCheck-helper&quot;]</value>
+      <webElementGuid>90eb3868-705e-4e45-8907-14cb94f059e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmConfigureProduct']/div/div/div[4]/div/div/div/label/div/ins</value>
+      <webElementGuid>f1db7a0b-6ad2-4898-888f-7b4e52b112e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ins</value>
+      <webElementGuid>c857b4b4-4d17-47a9-acaf-afbede9e39e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

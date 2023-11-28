@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Return to REPTILES</name>
+   <tag></tag>
+   <elementGuidId>c7980c6f-51eb-4ab7-86c4-cb7cd866b0f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#BackLink > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='BackLink']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8b8d6809-5871-41c7-92a9-7c895f3a296b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/actions/Catalog.action?viewCategory=&amp;categoryId=REPTILES</value>
+      <webElementGuid>ad713a49-b2d4-4c58-8307-96a30e24e71e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Return to REPTILES</value>
+      <webElementGuid>6665b32d-b98a-4f28-a6ba-edf7df8d4115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BackLink&quot;)/a[1]</value>
+      <webElementGuid>433dd8ba-8d76-474d-a293-b87fe0fc5a75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='BackLink']/a</value>
+      <webElementGuid>12429c88-bc2d-4df5-baf7-b8641b2d1c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Return to REPTILES')]</value>
+      <webElementGuid>ae983040-9bf8-438d-99e5-5a6095e04a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='?'])[1]/following::a[6]</value>
+      <webElementGuid>3fc16849-da5b-483c-92d1-94221b0c6d30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::a[7]</value>
+      <webElementGuid>2b88bdbf-5d5f-42f5-b248-09074d17601d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iguana'])[1]/preceding::a[1]</value>
+      <webElementGuid>488aa2e2-2c79-4991-8a35-3b6285c634d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item ID'])[1]/preceding::a[1]</value>
+      <webElementGuid>c86b7845-d039-414c-b196-df542d11ab89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Return to REPTILES']/parent::*</value>
+      <webElementGuid>8978f79e-89e5-4fd1-bfba-daf1d4616894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/actions/Catalog.action?viewCategory=&amp;categoryId=REPTILES')])[2]</value>
+      <webElementGuid>9c1fd153-43a6-4a0e-9eb5-e3dc328a4a3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>5fe835ce-c6ec-4140-a8fa-548425f52740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/actions/Catalog.action?viewCategory=&amp;categoryId=REPTILES' and (text() = 'Return to REPTILES' or . = 'Return to REPTILES')]</value>
+      <webElementGuid>e1d66f11-1c96-437a-af4b-2e39a4c40534</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_License</name>
+   <tag></tag>
+   <elementGuidId>a149bc8c-c16d-42d8-bfcc-67f10766f9b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Secondary_Sidebar-Categories-License</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='Secondary_Sidebar-Categories-License']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dc3004f6-faf4-435a-aa31-b5d0200fa606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>menuitemname</name>
+      <type>Main</type>
+      <value>License</value>
+      <webElementGuid>98f372db-43b4-47c3-9c7d-d7b056744cf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/store/license</value>
+      <webElementGuid>f8b197e9-31b0-4640-a1ef-1931f9480d3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item list-group-item-action</value>
+      <webElementGuid>6c9bdc75-585e-4106-b6af-ae3f850c2ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Secondary_Sidebar-Categories-License</value>
+      <webElementGuid>591e11e5-3b74-4dfb-a100-1d8fa3cfbf12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+License
+</value>
+      <webElementGuid>1293e2c6-e32d-4379-a051-3b595853028f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Secondary_Sidebar-Categories-License&quot;)</value>
+      <webElementGuid>d9061b5d-8a73-4201-8673-05930f06abe8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='Secondary_Sidebar-Categories-License']</value>
+      <webElementGuid>24662acf-1455-4fa2-8b95-84ffc184a97d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-standard_cart']/div/div/div/div[2]/a[2]</value>
+      <webElementGuid>495da83a-028d-48a9-8fbf-38d4e6dd501a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'License')])[2]</value>
+      <webElementGuid>b750ad85-bd27-42cb-9804-879326fc7596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installation'])[2]/following::a[1]</value>
+      <webElementGuid>67c21378-17b3-4728-8a61-3d844d05b2c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile'])[2]/preceding::a[1]</value>
+      <webElementGuid>3f3277b1-471d-499f-aa90-6fbfdb223518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[2]/preceding::a[2]</value>
+      <webElementGuid>22802fe3-8c1e-4842-9419-48fd475c5eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/store/license')])[2]</value>
+      <webElementGuid>397348ac-2404-478d-80a5-f2d69dfe69b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>8787a354-bb37-491f-a981-0c6bce6a0148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/store/license' and @id = 'Secondary_Sidebar-Categories-License' and (text() = '
+License
+' or . = '
+License
+')]</value>
+      <webElementGuid>c8f54e02-18d1-45fe-87b1-17d21d234775</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
