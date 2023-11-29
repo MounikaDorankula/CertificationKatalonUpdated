@@ -1,0 +1,104 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Luna,Chrome 119.0.0.0,,,2023-11-29 17:14:48,2023-11-29 17:19:56,5m - 8.171s,PASSED
+,,,,,,,
+Test Cases/LunaCreateAccount,Chrome 119.0.0.0,,,2023-11-29 17:14:48,2023-11-29 17:15:15,26.410s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:14:49,2023-11-29 17:14:52,3.183s,PASSED
+"navigateToUrl(""https://magento.softwaretestingboard.com/"")",Chrome 119.0.0.0,,,2023-11-29 17:14:52,2023-11-29 17:14:57,4.814s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:14:57,2023-11-29 17:14:57,0.163s,PASSED
+"click(findTestObject(""Object Repository/LunaCreateAccount/Page_Home Page/a_Create an Account""))",Chrome 119.0.0.0,,,2023-11-29 17:14:57,2023-11-29 17:15:03,6.168s,PASSED
+"setText(findTestObject(""Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_First Name_firstname""), ""Test"")",Chrome 119.0.0.0,,,2023-11-29 17:15:03,2023-11-29 17:15:04,1.168s,PASSED
+"setText(findTestObject(""Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Last Name_lastname""), ""User"")",Chrome 119.0.0.0,,,2023-11-29 17:15:04,2023-11-29 17:15:05,0.720s,PASSED
+"setText(findTestObject(""Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Email_email""), ""test@gmail.com"")",Chrome 119.0.0.0,,,2023-11-29 17:15:05,2023-11-29 17:15:06,0.695s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Password_password""), ""cvW8qx4B2o3F4VwP/kNsqA=="")",Chrome 119.0.0.0,,,2023-11-29 17:15:06,2023-11-29 17:15:06,0.620s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/LunaCreateAccount/Page_Create New Customer Account/input_Confirm Password_password_confirmation""), ""cvW8qx4B2o3F4VwP/kNsqA=="")",Chrome 119.0.0.0,,,2023-11-29 17:15:06,2023-11-29 17:15:07,0.570s,PASSED
+"click(findTestObject(""Object Repository/LunaCreateAccount/Page_Create New Customer Account/span_Create an Account""))",Chrome 119.0.0.0,,,2023-11-29 17:15:07,2023-11-29 17:15:11,3.900s,PASSED
+"click(findTestObject(""Object Repository/LunaCreateAccount/Page_Create New Customer Account/img""))",Chrome 119.0.0.0,,,2023-11-29 17:15:11,2023-11-29 17:15:14,3.011s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 17:15:14,2023-11-29 17:15:15,0.849s,PASSED
+,,,,,,,
+Test Cases/LunaSignIn,Chrome 119.0.0.0,,,2023-11-29 17:15:15,2023-11-29 17:15:47,32.784s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:15:15,2023-11-29 17:15:17,1.434s,PASSED
+"navigateToUrl(""https://magento.softwaretestingboard.com/"")",Chrome 119.0.0.0,,,2023-11-29 17:15:17,2023-11-29 17:15:22,5.727s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:15:22,2023-11-29 17:15:22,0.153s,PASSED
+"click(findTestObject(""Object Repository/LunaSignIn/Page_Home Page/a_Sign In""))",Chrome 119.0.0.0,,,2023-11-29 17:15:22,2023-11-29 17:15:31,8.865s,PASSED
+"setText(findTestObject(""Object Repository/LunaSignIn/Page_Customer Login/input_Email_loginusername""), ""test@gmail.com"")",Chrome 119.0.0.0,,,2023-11-29 17:15:31,2023-11-29 17:15:34,2.737s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/LunaSignIn/Page_Customer Login/input_Password_loginpassword""), ""cvW8qx4B2o3F4VwP/kNsqA=="")",Chrome 119.0.0.0,,,2023-11-29 17:15:34,2023-11-29 17:15:34,0.472s,PASSED
+"click(findTestObject(""Object Repository/LunaSignIn/Page_Customer Login/span_Sign In""))",Chrome 119.0.0.0,,,2023-11-29 17:15:34,2023-11-29 17:15:40,5.197s,PASSED
+"click(findTestObject(""Object Repository/LunaSignIn/Page_Customer Login/img""))",Chrome 119.0.0.0,,,2023-11-29 17:15:40,2023-11-29 17:15:46,6.779s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 17:15:46,2023-11-29 17:15:47,0.889s,PASSED
+,,,,,,,
+Test Cases/LunaForgotPassword,Chrome 119.0.0.0,,,2023-11-29 17:15:47,2023-11-29 17:16:14,27.104s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:15:48,2023-11-29 17:15:49,1.341s,PASSED
+"navigateToUrl(""https://magento.softwaretestingboard.com/"")",Chrome 119.0.0.0,,,2023-11-29 17:15:49,2023-11-29 17:15:55,5.757s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:15:55,2023-11-29 17:15:55,0.141s,PASSED
+"click(findTestObject(""Object Repository/LunaForgotPassword/Page_Home Page/a_Sign In""))",Chrome 119.0.0.0,,,2023-11-29 17:15:55,2023-11-29 17:16:02,6.831s,PASSED
+"click(findTestObject(""Object Repository/LunaForgotPassword/Page_Customer Login/span_Forgot Your Password""))",Chrome 119.0.0.0,,,2023-11-29 17:16:02,2023-11-29 17:16:04,2.042s,PASSED
+"setText(findTestObject(""Object Repository/LunaForgotPassword/Page_Forgot Your Password/input_Email_email""), ""test@gmail.com"")",Chrome 119.0.0.0,,,2023-11-29 17:16:04,2023-11-29 17:16:05,0.967s,PASSED
+"click(findTestObject(""Object Repository/LunaForgotPassword/Page_Forgot Your Password/span_Reset My Password""))",Chrome 119.0.0.0,,,2023-11-29 17:16:05,2023-11-29 17:16:10,5.198s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/LunaForgotPassword/Page_Customer Login/div_If there is an account associated with _63f896""))",Chrome 119.0.0.0,,,2023-11-29 17:16:10,2023-11-29 17:16:11,0.994s,PASSED
+"click(findTestObject(""Object Repository/LunaForgotPassword/Page_Customer Login/img""))",Chrome 119.0.0.0,,,2023-11-29 17:16:11,2023-11-29 17:16:14,2.354s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 17:16:14,2023-11-29 17:16:14,0.900s,PASSED
+,,,,,,,
+Test Cases/LunaGear,Chrome 119.0.0.0,,,2023-11-29 17:16:14,2023-11-29 17:16:47,32.078s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:16:15,2023-11-29 17:16:16,1.248s,PASSED
+"navigateToUrl(""https://magento.softwaretestingboard.com/"")",Chrome 119.0.0.0,,,2023-11-29 17:16:16,2023-11-29 17:16:24,8.114s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:16:24,2023-11-29 17:16:24,0.144s,PASSED
+"click(findTestObject(""Object Repository/LunaGearBags/Page_Home Page/span_Shorts_ui-menu-icon ui-icon ui-icon-carat-1-e""))",Chrome 119.0.0.0,,,2023-11-29 17:16:24,2023-11-29 17:16:29,4.978s,PASSED
+"click(findTestObject(""Object Repository/LunaGearBags/Page_Gear/a_Bags""))",Chrome 119.0.0.0,,,2023-11-29 17:16:29,2023-11-29 17:16:33,3.049s,PASSED
+"mouseOver(findTestObject(""Object Repository/LunaGearBags/Page_Bags - Gear/a_Push It Messenger Bag""))",Chrome 119.0.0.0,,,2023-11-29 17:16:33,2023-11-29 17:16:33,0.551s,PASSED
+"click(findTestObject(""Object Repository/LunaGearBags/Page_Bags - Gear/span_Add to Cart""))",Chrome 119.0.0.0,,,2023-11-29 17:16:33,2023-11-29 17:16:33,0.372s,PASSED
+"click(findTestObject(""Object Repository/LunaGearBags/Page_Push It Messenger Bag/a_More Information""))",Chrome 119.0.0.0,,,2023-11-29 17:16:33,2023-11-29 17:16:39,5.135s,PASSED
+"click(findTestObject(""Object Repository/LunaGearBags/Page_Push It Messenger Bag/a_Reviews 3""))",Chrome 119.0.0.0,,,2023-11-29 17:16:39,2023-11-29 17:16:39,0.419s,PASSED
+"click(findTestObject(""Object Repository/LunaGearBags/Page_Push It Messenger Bag/span_Add to Wish List""))",Chrome 119.0.0.0,,,2023-11-29 17:16:39,2023-11-29 17:16:43,4.070s,PASSED
+"click(findTestObject(""Object Repository/LunaGearBags/Page_Customer Login/img""))",Chrome 119.0.0.0,,,2023-11-29 17:16:43,2023-11-29 17:16:47,3.468s,PASSED
+,,,,,,,
+Test Cases/LunaSale,Chrome 119.0.0.0,,,2023-11-29 17:16:47,2023-11-29 17:17:23,35.967s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:16:47,2023-11-29 17:16:49,2.169s,PASSED
+"navigateToUrl(""https://magento.softwaretestingboard.com/"")",Chrome 119.0.0.0,,,2023-11-29 17:16:49,2023-11-29 17:16:54,4.831s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:16:54,2023-11-29 17:16:54,0.139s,PASSED
+"click(findTestObject(""Object Repository/Lunasale/Page_Home Page/span_Sale""))",Chrome 119.0.0.0,,,2023-11-29 17:16:54,2023-11-29 17:17:01,6.788s,PASSED
+"click(findTestObject(""Object Repository/Lunasale/Page_Sale/a_Tees""))",Chrome 119.0.0.0,,,2023-11-29 17:17:01,2023-11-29 17:17:04,2.993s,PASSED
+"click(findTestObject(""Object Repository/Lunasale/Page_Tees - Tops - Women/div_XS""))",Chrome 119.0.0.0,,,2023-11-29 17:17:04,2023-11-29 17:17:05,0.418s,PASSED
+"click(findTestObject(""Object Repository/Lunasale/Page_Tees - Tops - Women/span_Add to Cart""))",Chrome 119.0.0.0,,,2023-11-29 17:17:05,2023-11-29 17:17:06,1.117s,PASSED
+"click(findTestObject(""Object Repository/Lunasale/Page_Desiree Fitness Tee/div_Color_option-label-color-93-item-49""))",Chrome 119.0.0.0,,,2023-11-29 17:17:06,2023-11-29 17:17:13,7.182s,PASSED
+"click(findTestObject(""Object Repository/Lunasale/Page_Desiree Fitness Tee/span_Add to Wish List""))",Chrome 119.0.0.0,,,2023-11-29 17:17:13,2023-11-29 17:17:18,4.833s,PASSED
+back(),Chrome 119.0.0.0,,,2023-11-29 17:17:18,2023-11-29 17:17:19,1.502s,PASSED
+"click(findTestObject(""Object Repository/Lunasale/Page_Customer Login/img""))",Chrome 119.0.0.0,,,2023-11-29 17:17:19,2023-11-29 17:17:22,2.351s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 17:17:22,2023-11-29 17:17:23,0.914s,PASSED
+,,,,,,,
+Test Cases/LunaSearch,Chrome 119.0.0.0,,,2023-11-29 17:17:23,2023-11-29 17:17:46,23.453s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:17:23,2023-11-29 17:17:24,1.319s,PASSED
+"navigateToUrl(""https://magento.softwaretestingboard.com/"")",Chrome 119.0.0.0,,,2023-11-29 17:17:24,2023-11-29 17:17:32,7.480s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:17:32,2023-11-29 17:17:32,0.135s,PASSED
+"click(findTestObject(""Object Repository/LunaSearch/Page_Home Page/span_concat(What, , s New)_ui-menu-icon ui-_fd086e""))",Chrome 119.0.0.0,,,2023-11-29 17:17:32,2023-11-29 17:17:38,5.634s,PASSED
+"click(findTestObject(""Object Repository/LunaSearch/Page_Women/a_Tops""))",Chrome 119.0.0.0,,,2023-11-29 17:17:38,2023-11-29 17:17:40,2.888s,PASSED
+"click(findTestObject(""Object Repository/LunaSearch/Page_Tops - Women/div_Category""))",Chrome 119.0.0.0,,,2023-11-29 17:17:40,2023-11-29 17:17:41,0.445s,PASSED
+"click(findTestObject(""Object Repository/LunaSearch/Page_Tops - Women/a_Jackets 12item""))",Chrome 119.0.0.0,,,2023-11-29 17:17:41,2023-11-29 17:17:43,1.690s,PASSED
+"click(findTestObject(""Object Repository/LunaSearch/Page_Tops - Women/span_Clear All""))",Chrome 119.0.0.0,,,2023-11-29 17:17:43,2023-11-29 17:17:45,2.584s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 17:17:45,2023-11-29 17:17:46,0.772s,PASSED
+,,,,,,,
+Test Cases/LunaSearchApparel,Chrome 119.0.0.0,,,2023-11-29 17:17:46,2023-11-29 17:18:24,38.523s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:17:46,2023-11-29 17:17:48,1.520s,PASSED
+"navigateToUrl(""https://magento.softwaretestingboard.com/"")",Chrome 119.0.0.0,,,2023-11-29 17:17:48,2023-11-29 17:17:54,5.623s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:17:54,2023-11-29 17:17:54,0.141s,PASSED
+"click(findTestObject(""Object Repository/LunaMenApparel/Page_Home Page/span_Shorts_ui-menu-icon ui-icon ui-icon-carat-1-e""))",Chrome 119.0.0.0,,,2023-11-29 17:17:54,2023-11-29 17:17:59,5.163s,PASSED
+"click(findTestObject(""Object Repository/LunaMenApparel/Page_Men/a_Bottoms""))",Chrome 119.0.0.0,,,2023-11-29 17:17:59,2023-11-29 17:18:03,4.068s,PASSED
+"click(findTestObject(""Object Repository/LunaMenApparel/Page_Bottoms - Men/div_Category""))",Chrome 119.0.0.0,,,2023-11-29 17:18:03,2023-11-29 17:18:03,0.424s,PASSED
+"click(findTestObject(""Object Repository/LunaMenApparel/Page_Bottoms - Men/a_Pants 12item""))",Chrome 119.0.0.0,,,2023-11-29 17:18:03,2023-11-29 17:18:06,3.047s,PASSED
+"click(findTestObject(""Object Repository/LunaMenApparel/Page_Bottoms - Men/div_33""))",Chrome 119.0.0.0,,,2023-11-29 17:18:06,2023-11-29 17:18:07,0.396s,PASSED
+"click(findTestObject(""Object Repository/LunaMenApparel/Page_Bottoms - Men/div_48.00_option-label-color-93-item-49""))",Chrome 119.0.0.0,,,2023-11-29 17:18:07,2023-11-29 17:18:08,1.054s,PASSED
+"click(findTestObject(""Object Repository/LunaMenApparel/Page_Bottoms - Men/button_Add to Cart""))",Chrome 119.0.0.0,,,2023-11-29 17:18:08,2023-11-29 17:18:10,1.807s,PASSED
+"click(findTestObject(""Object Repository/LunaMenApparel/Page_Bottoms - Men/a_shopping cart""))",Chrome 119.0.0.0,,,2023-11-29 17:18:10,2023-11-29 17:18:21,11.261s,PASSED
+"click(findTestObject(""Object Repository/LunaMenApparel/Page_Shopping Cart/img""))",Chrome 119.0.0.0,,,2023-11-29 17:18:21,2023-11-29 17:18:24,2.587s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 17:18:24,2023-11-29 17:18:24,0.931s,PASSED
+,,,,,,,
+Test Cases/LunaWatches,Chrome 119.0.0.0,,,2023-11-29 17:18:25,2023-11-29 17:19:56,1m - 31.401s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:18:25,2023-11-29 17:18:27,1.408s,PASSED
+"navigateToUrl(""https://magento.softwaretestingboard.com/"")",Chrome 119.0.0.0,,,2023-11-29 17:18:27,2023-11-29 17:18:38,11.730s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:18:38,2023-11-29 17:18:38,0.149s,PASSED
+"mouseOver(findTestObject(""Object Repository/LunaWatches/Page_Home Page/a_Gear""))",Chrome 119.0.0.0,,,2023-11-29 17:18:38,2023-11-29 17:18:47,8.108s,PASSED
+"click(findTestObject(""Object Repository/LunaWatches/Page_Gear/span_Watches""))",Chrome 119.0.0.0,,,2023-11-29 17:18:47,2023-11-29 17:19:11,24.622s,PASSED
+"click(findTestObject(""Object Repository/LunaWatches/Page_Watches - Gear/a_List""))",Chrome 119.0.0.0,,,2023-11-29 17:19:11,2023-11-29 17:19:15,3.920s,PASSED
+"click(findTestObject(""Object Repository/LunaWatches/Page_Watches - Gear/button_Add to Cart""))",Chrome 119.0.0.0,,,2023-11-29 17:19:15,2023-11-29 17:19:16,0.819s,PASSED
+"setText(findTestObject(""Object Repository/LunaWatches/Page_Didi Sport Watch/input_Qty_qty""), ""4"")",Chrome 119.0.0.0,,,2023-11-29 17:19:16,2023-11-29 17:19:36,19.621s,PASSED
+"click(findTestObject(""Object Repository/LunaWatches/Page_Didi Sport Watch/span_Add to Cart""))",Chrome 119.0.0.0,,,2023-11-29 17:19:36,2023-11-29 17:19:36,0.422s,PASSED
+"click(findTestObject(""Object Repository/LunaWatches/Page_Didi Sport Watch/a_Home""))",Chrome 119.0.0.0,,,2023-11-29 17:19:36,2023-11-29 17:19:56,19.971s,PASSED

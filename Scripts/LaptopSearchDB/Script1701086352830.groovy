@@ -29,8 +29,6 @@ WebUI.click(findTestObject('Object Repository/LaptopSearchDB/Page_Computers data
 
 WebUI.click(findTestObject('Object Repository/LaptopSearchDB/Page_Computers database/a_Dell Inspiron 560 Desktop Computer'))
 
-WebUI.takeFullPageScreenshot()
-
 WebUI.selectOptionByValue(findTestObject('Object Repository/LaptopSearchDB/Page_Computers database/select_-- Choose a company --Apple Inc.Thin_aed4be'), 
     '13', true)
 

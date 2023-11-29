@@ -78,5 +78,3 @@ WebUI.click(findTestObject('Object Repository/Cartpage/Page_Shopping Cart - PHPT
 
 WebUI.closeBrowser()
 
-WebUI.closeBrowser()
-

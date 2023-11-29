@@ -35,8 +35,6 @@ WebUI.setText(findTestObject('Object Repository/ApplitetoolsLogin/Page_ACME demo
 
 WebUI.sendKeys(findTestObject('Object Repository/ApplitetoolsLogin/Page_ACME demo app/input_text'), Keys.chord(Keys.ENTER))
 
-WebUI.takeElementScreenshot(findTestObject('ApplitetoolsLogin/Page_ACME demo app/span_View Statement'))
-
 WebUI.click(findTestObject('Object Repository/ApplitetoolsLogin/Page_ACME demo app/span_View Statement'))
 
 WebUI.closeBrowser()

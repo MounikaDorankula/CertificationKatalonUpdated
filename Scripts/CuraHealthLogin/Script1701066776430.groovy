@@ -35,9 +35,9 @@ WebUI.click(findTestObject('Object Repository/CuraHealth/Page_CURA Healthcare Se
 
 WebUI.click(findTestObject('Object Repository/CuraHealth/Page_CURA Healthcare Service/p_Login failed Please ensure the username a_eb55b5'))
 
-WebUI.takeFullPageScreenshot()
-
 WebUI.click(findTestObject('Object Repository/CuraHealth/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle'))
 
 WebUI.click(findTestObject('Object Repository/CuraHealth/Page_CURA Healthcare Service/a_Home'))
+
+WebUI.closeBrowser()
 

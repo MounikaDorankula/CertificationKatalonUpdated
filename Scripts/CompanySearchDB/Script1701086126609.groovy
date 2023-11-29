@@ -37,8 +37,6 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/ComputerSearchBD/Pag
 
 WebUI.click(findTestObject('Object Repository/ComputerSearchBD/Page_Computers database/input_or_btn primary'))
 
-WebUI.takeFullPageScreenshot()
-
 WebUI.click(findTestObject('Object Repository/ComputerSearchBD/Page_Computers database/a_Computer database'))
 
 WebUI.closeBrowser()

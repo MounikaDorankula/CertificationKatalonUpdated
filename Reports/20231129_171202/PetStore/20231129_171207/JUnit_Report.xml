@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PetStore" time="180.127" tests="6" failures="0" errors="0">
+   <testsuite name="PetStore" tests="6" failures="0" errors="0" time="180.127" skipped="0" timestamp="2023-11-29 17:20:26" hostname="Praveen Reddy - LAPTOP-FO4697CL" id="Test Suites/PetStore">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\phlv5\\Katalon Studio\\Git\\LunaPHP\\Reports\\20231129_171202\\PetStore\\20231129_171207"/>
+         <property name="logFiles" value="C:\\Users\\phlv5\\Katalon Studio\\Git\\LunaPHP\\Reports\\20231129_171202\\PetStore\\20231129_171207\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Praveen Reddy - LAPTOP-FO4697CL"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 119.0.0.0"/>
+         <property name="hostAddress" value="192.168.116.65"/>
+         <property name="sessionId" value="07919085cb0fdf42e849b389aeaba523"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/PetstoreSignin" time="120.107" classname="Test Cases/PetstoreSignin" status="PASSED">
+         <system-out><![CDATA[2023-11-29 17:20:26 - [TEST_CASE][PASSED] - Test Cases/PetstoreSignin: Test Cases/PetstoreSignin
+
+2023-11-29 17:20:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-29 17:20:27 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-29 17:20:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-29 17:20:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-29 17:20:30 - [TEST_STEP][PASSED] - navigateToUrl("https://petstore.octoperf.com/actions/Catalog.action"): Navigate to 'https://petstore.octoperf.com/actions/Catalog.action' successfully
+
+2023-11-29 17:20:33 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/actions/Catalog.action' successfully
+
+2023-11-29 17:20:33 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-29 17:20:33 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-29 17:20:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/a_Sign In")): Object: 'Object Repository/PetStoreSignin/Page_JPetStore Demo/a_Sign In' is clicked on
+
+2023-11-29 17:20:34 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreSignin/Page_JPetStore Demo/a_Sign In' is clicked on
+
+2023-11-29 17:20:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/a_Register Now")): Object: 'Object Repository/PetStoreSignin/Page_JPetStore Demo/a_Register Now' is clicked on
+
+2023-11-29 17:20:35 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreSignin/Page_JPetStore Demo/a_Register Now' is clicked on
+
+2023-11-29 17:20:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username"), "12345"): Text '12345' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username'
+
+2023-11-29 17:21:06 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='stripes-67335950']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-11-29 17:21:06 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username'. Try using Self-healing.
+
+2023-11-29 17:21:06 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username' was broken. Propose an alternative one: '//div[@id='Catalog']/form/table/tbody/tr/td[2]/input'.
+
+2023-11-29 17:21:37 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='stripes-67335950']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-11-29 17:21:37 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username'. Try using Self-healing.
+
+2023-11-29 17:21:38 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username' was broken. Propose an alternative one: '//div[@id='Catalog']/form/table/tbody/tr/td[2]/input'.
+
+2023-11-29 17:21:38 - [MESSAGE][PASSED] - Text '12345' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username'
+
+2023-11-29 17:21:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_New password_password"), "Test@123"): Text 'Test@123' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_New password_password'
+
+2023-11-29 17:21:39 - [MESSAGE][PASSED] - Text 'Test@123' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_New password_password'
+
+2023-11-29 17:21:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Repeat password_repeatedPassword"), "Test@123"): Text 'Test@123' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Repeat password_repeatedPassword'
+
+2023-11-29 17:21:39 - [MESSAGE][PASSED] - Text 'Test@123' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Repeat password_repeatedPassword'
+
+2023-11-29 17:21:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_First name_account.firstName"), "Test"): Text 'Test' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_First name_account.firstName'
+
+2023-11-29 17:21:40 - [MESSAGE][PASSED] - Text 'Test' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_First name_account.firstName'
+
+2023-11-29 17:21:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Last name_account.lastName"), "User"): Text 'User' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Last name_account.lastName'
+
+2023-11-29 17:21:41 - [MESSAGE][PASSED] - Text 'User' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Last name_account.lastName'
+
+2023-11-29 17:21:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email"), "test@gmail.com"): Text 'test@gmail.com' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email'
+
+2023-11-29 17:21:41 - [MESSAGE][PASSED] - Text 'test@gmail.com' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email'
+
+2023-11-29 17:21:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Phone_account.phone"), "8786768987"): Text '8786768987' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Phone_account.phone'
+
+2023-11-29 17:21:42 - [MESSAGE][PASSED] - Text '8786768987' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Phone_account.phone'
+
+2023-11-29 17:21:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Address 1_account.address1"), "test"): Text 'test' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Address 1_account.address1'
+
+2023-11-29 17:21:43 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Address 1_account.address1'
+
+2023-11-29 17:21:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Address 2_account.address2"), "test2"): Text 'test2' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Address 2_account.address2'
+
+2023-11-29 17:21:43 - [MESSAGE][PASSED] - Text 'test2' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Address 2_account.address2'
+
+2023-11-29 17:21:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_City_account.city"), "Hyderabad"): Text 'Hyderabad' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_City_account.city'
+
+2023-11-29 17:21:44 - [MESSAGE][PASSED] - Text 'Hyderabad' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_City_account.city'
+
+2023-11-29 17:21:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_State_account.state"), "Telangana"): Text 'Telangana' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_State_account.state'
+
+2023-11-29 17:21:45 - [MESSAGE][PASSED] - Text 'Telangana' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_State_account.state'
+
+2023-11-29 17:21:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Zip_account.zip"), "500001"): Text '500001' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Zip_account.zip'
+
+2023-11-29 17:21:46 - [MESSAGE][PASSED] - Text '500001' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Zip_account.zip'
+
+2023-11-29 17:21:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Country_account.country"), "India"): Text 'India' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Country_account.country'
+
+2023-11-29 17:21:46 - [MESSAGE][PASSED] - Text 'India' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Country_account.country'
+
+2023-11-29 17:21:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email"), "test"): Text 'test' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email'
+
+2023-11-29 17:21:47 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email'
+
+2023-11-29 17:21:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Address 2_account.address2"), "test2"): Text 'test2' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Address 2_account.address2'
+
+2023-11-29 17:21:48 - [MESSAGE][PASSED] - Text 'test2' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Address 2_account.address2'
+
+2023-11-29 17:21:48 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/select_englishjapanese"), "japanese", true): All options with value 'japanese' are selected in object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/select_englishjapanese'  using regular expression
+
+2023-11-29 17:21:49 - [MESSAGE][PASSED] - All options with value 'japanese' are selected in object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/select_englishjapanese'  using regular expression
+
+2023-11-29 17:21:49 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/select_englishjapanese"), "english", true): All options with value 'english' are selected in object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/select_englishjapanese'  using regular expression
+
+2023-11-29 17:21:50 - [MESSAGE][PASSED] - All options with value 'english' are selected in object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/select_englishjapanese'  using regular expression
+
+2023-11-29 17:21:50 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/select_FISHDOGSREPTILESCATSBIRDS"), "DOGS", true): All options with value 'DOGS' are selected in object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/select_FISHDOGSREPTILESCATSBIRDS'  using regular expression
+
+2023-11-29 17:21:51 - [MESSAGE][PASSED] - All options with value 'DOGS' are selected in object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/select_FISHDOGSREPTILESCATSBIRDS'  using regular expression
+
+2023-11-29 17:21:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Enable MyList_account.listOption")): Object: 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Enable MyList_account.listOption' is clicked on
+
+2023-11-29 17:21:51 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Enable MyList_account.listOption' is clicked on
+
+2023-11-29 17:21:51 - [TEST_STEP][PASSED] - clearText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Repeat password_repeatedPassword")): Text of object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Repeat password_repeatedPassword' is cleared
+
+2023-11-29 17:21:52 - [MESSAGE][PASSED] - Text of object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Repeat password_repeatedPassword' is cleared
+
+2023-11-29 17:21:52 - [TEST_STEP][PASSED] - clearText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username")): Text of object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username' is cleared
+
+2023-11-29 17:22:23 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='stripes-67335950']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-11-29 17:22:23 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username'. Try using Self-healing.
+
+2023-11-29 17:22:23 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username' was broken. Propose an alternative one: '//div[@id='Catalog']/form/table/tbody/tr/td[2]/input'.
+
+2023-11-29 17:22:23 - [MESSAGE][PASSED] - Text of object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username' is cleared
+
+2023-11-29 17:22:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email")): Object: 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email' is clicked on
+
+2023-11-29 17:22:24 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email' is clicked on
+
+2023-11-29 17:22:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email"), "test@gmail.com"): Text 'test@gmail.com' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email'
+
+2023-11-29 17:22:24 - [MESSAGE][PASSED] - Text 'test@gmail.com' is set on object 'Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email'
+
+2023-11-29 17:22:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreSignin/Page_JPetStore Demo/img")): Object: 'Object Repository/PetStoreSignin/Page_JPetStore Demo/img' is clicked on
+
+2023-11-29 17:22:26 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreSignin/Page_JPetStore Demo/img' is clicked on
+
+2023-11-29 17:22:26 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-29 17:22:27 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PetstoreFish" time="8.486" classname="Test Cases/PetstoreFish" status="PASSED">
+         <system-out><![CDATA[2023-11-29 17:22:27 - [TEST_CASE][PASSED] - Test Cases/PetstoreFish: Test Cases/PetstoreFish
+
+2023-11-29 17:22:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-29 17:22:27 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-29 17:22:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-29 17:22:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-29 17:22:28 - [TEST_STEP][PASSED] - navigateToUrl("https://petstore.octoperf.com/actions/Catalog.action"): Navigate to 'https://petstore.octoperf.com/actions/Catalog.action' successfully
+
+2023-11-29 17:22:30 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/actions/Catalog.action' successfully
+
+2023-11-29 17:22:30 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-29 17:22:30 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-29 17:22:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/petStoreFish/Page_JPetStore Demo/img")): Object: 'Object Repository/petStoreFish/Page_JPetStore Demo/img' is clicked on
+
+2023-11-29 17:22:31 - [MESSAGE][PASSED] - Object: 'Object Repository/petStoreFish/Page_JPetStore Demo/img' is clicked on
+
+2023-11-29 17:22:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/petStoreFish/Page_JPetStore Demo/a_FI-SW-01")): Object: 'Object Repository/petStoreFish/Page_JPetStore Demo/a_FI-SW-01' is clicked on
+
+2023-11-29 17:22:32 - [MESSAGE][PASSED] - Object: 'Object Repository/petStoreFish/Page_JPetStore Demo/a_FI-SW-01' is clicked on
+
+2023-11-29 17:22:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/petStoreFish/Page_JPetStore Demo/a_EST-2")): Object: 'Object Repository/petStoreFish/Page_JPetStore Demo/a_EST-2' is clicked on
+
+2023-11-29 17:22:33 - [MESSAGE][PASSED] - Object: 'Object Repository/petStoreFish/Page_JPetStore Demo/a_EST-2' is clicked on
+
+2023-11-29 17:22:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/petStoreFish/Page_JPetStore Demo/a_Add to Cart")): Object: 'Object Repository/petStoreFish/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+2023-11-29 17:22:34 - [MESSAGE][PASSED] - Object: 'Object Repository/petStoreFish/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+2023-11-29 17:22:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/petStoreFish/Page_JPetStore Demo/a_Remove")): Object: 'Object Repository/petStoreFish/Page_JPetStore Demo/a_Remove' is clicked on
+
+2023-11-29 17:22:34 - [MESSAGE][PASSED] - Object: 'Object Repository/petStoreFish/Page_JPetStore Demo/a_Remove' is clicked on
+
+2023-11-29 17:22:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/petStoreFish/Page_JPetStore Demo/img_1")): Object: 'Object Repository/petStoreFish/Page_JPetStore Demo/img_1' is clicked on
+
+2023-11-29 17:22:35 - [MESSAGE][PASSED] - Object: 'Object Repository/petStoreFish/Page_JPetStore Demo/img_1' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PetstoreDemo" time="19.962" classname="Test Cases/PetstoreDemo" status="PASSED">
+         <system-out><![CDATA[2023-11-29 17:22:35 - [TEST_CASE][PASSED] - Test Cases/PetstoreDemo: Test Cases/PetstoreDemo
+
+2023-11-29 17:22:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-29 17:22:35 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-11-29 17:22:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-29 17:22:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-29 17:22:37 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-29 17:22:37 - [TEST_STEP][PASSED] - navigateToUrl("https://petstore.octoperf.com/actions/Catalog.action"): Navigate to 'https://petstore.octoperf.com/actions/Catalog.action' successfully
+
+2023-11-29 17:22:39 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/actions/Catalog.action' successfully
+
+2023-11-29 17:22:39 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-29 17:22:39 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-29 17:22:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img' is clicked on
+
+2023-11-29 17:22:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img' is clicked on
+
+2023-11-29 17:22:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_K9-PO-02")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_K9-PO-02' is clicked on
+
+2023-11-29 17:22:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_K9-PO-02' is clicked on
+
+2023-11-29 17:22:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_EST-8")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_EST-8' is clicked on
+
+2023-11-29 17:22:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_EST-8' is clicked on
+
+2023-11-29 17:22:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Add to Cart")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+2023-11-29 17:22:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+2023-11-29 17:22:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities' is clicked on
+
+2023-11-29 17:22:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities' is clicked on
+
+2023-11-29 17:22:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_false_EST-8"), "7"): Text '7' is set on object 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_false_EST-8'
+
+2023-11-29 17:22:44 - [MESSAGE][PASSED] - Text '7' is set on object 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_false_EST-8'
+
+2023-11-29 17:22:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities' is clicked on
+
+2023-11-29 17:22:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities' is clicked on
+
+2023-11-29 17:22:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img_1")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img_1' is clicked on
+
+2023-11-29 17:22:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img_1' is clicked on
+
+2023-11-29 17:22:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_AV-CB-01")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_AV-CB-01' is clicked on
+
+2023-11-29 17:22:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_AV-CB-01' is clicked on
+
+2023-11-29 17:22:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Add to Cart_1")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Add to Cart_1' is clicked on
+
+2023-11-29 17:22:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Add to Cart_1' is clicked on
+
+2023-11-29 17:22:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_false_EST-18"), "8"): Text '8' is set on object 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_false_EST-18'
+
+2023-11-29 17:22:48 - [MESSAGE][PASSED] - Text '8' is set on object 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_false_EST-18'
+
+2023-11-29 17:22:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities' is clicked on
+
+2023-11-29 17:22:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities' is clicked on
+
+2023-11-29 17:22:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Proceed to Checkout")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Proceed to Checkout' is clicked on
+
+2023-11-29 17:22:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Proceed to Checkout' is clicked on
+
+2023-11-29 17:22:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Need a user name and password_signon")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Need a user name and password_signon' is clicked on
+
+2023-11-29 17:22:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Need a user name and password_signon' is clicked on
+
+2023-11-29 17:22:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img_Sign In_img_cart")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img_Sign In_img_cart' is clicked on
+
+2023-11-29 17:22:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img_Sign In_img_cart' is clicked on
+
+2023-11-29 17:22:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Remove")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Remove' is clicked on
+
+2023-11-29 17:22:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Remove' is clicked on
+
+2023-11-29 17:22:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Remove_1")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Remove_1' is clicked on
+
+2023-11-29 17:22:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Remove_1' is clicked on
+
+2023-11-29 17:22:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities' is clicked on
+
+2023-11-29 17:22:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities' is clicked on
+
+2023-11-29 17:22:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img_1_2")): Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img_1_2' is clicked on
+
+2023-11-29 17:22:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img_1_2' is clicked on
+
+2023-11-29 17:22:54 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-29 17:22:55 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PetStoreCats" time="8.707" classname="Test Cases/PetStoreCats" status="PASSED">
+         <system-out><![CDATA[2023-11-29 17:22:55 - [TEST_CASE][PASSED] - Test Cases/PetStoreCats: Test Cases/PetStoreCats
+
+2023-11-29 17:22:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-29 17:22:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-29 17:22:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-29 17:22:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-29 17:22:57 - [TEST_STEP][PASSED] - navigateToUrl("https://petstore.octoperf.com/actions/Catalog.action"): Navigate to 'https://petstore.octoperf.com/actions/Catalog.action' successfully
+
+2023-11-29 17:22:58 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/actions/Catalog.action' successfully
+
+2023-11-29 17:22:58 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-29 17:22:58 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-29 17:22:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreCats/Page_JPetStore Demo/img")): Object: 'Object Repository/PetStoreCats/Page_JPetStore Demo/img' is clicked on
+
+2023-11-29 17:22:59 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreCats/Page_JPetStore Demo/img' is clicked on
+
+2023-11-29 17:22:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreCats/Page_JPetStore Demo/a_FL-DLH-02")): Object: 'Object Repository/PetStoreCats/Page_JPetStore Demo/a_FL-DLH-02' is clicked on
+
+2023-11-29 17:23:00 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreCats/Page_JPetStore Demo/a_FL-DLH-02' is clicked on
+
+2023-11-29 17:23:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreCats/Page_JPetStore Demo/a_EST-16")): Object: 'Object Repository/PetStoreCats/Page_JPetStore Demo/a_EST-16' is clicked on
+
+2023-11-29 17:23:01 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreCats/Page_JPetStore Demo/a_EST-16' is clicked on
+
+2023-11-29 17:23:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreCats/Page_JPetStore Demo/a_Add to Cart")): Object: 'Object Repository/PetStoreCats/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+2023-11-29 17:23:02 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreCats/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+2023-11-29 17:23:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreCats/Page_JPetStore Demo/a_Remove")): Object: 'Object Repository/PetStoreCats/Page_JPetStore Demo/a_Remove' is clicked on
+
+2023-11-29 17:23:03 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreCats/Page_JPetStore Demo/a_Remove' is clicked on
+
+2023-11-29 17:23:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreCats/Page_JPetStore Demo/img_1")): Object: 'Object Repository/PetStoreCats/Page_JPetStore Demo/img_1' is clicked on
+
+2023-11-29 17:23:04 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreCats/Page_JPetStore Demo/img_1' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PetStoreBirds" time="11.715" classname="Test Cases/PetStoreBirds" status="PASSED">
+         <system-out><![CDATA[2023-11-29 17:23:04 - [TEST_CASE][PASSED] - Test Cases/PetStoreBirds: Test Cases/PetStoreBirds
+
+2023-11-29 17:23:04 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-29 17:23:04 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-11-29 17:23:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-29 17:23:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-29 17:23:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-29 17:23:06 - [TEST_STEP][PASSED] - navigateToUrl("https://petstore.octoperf.com/actions/Catalog.action"): Navigate to 'https://petstore.octoperf.com/actions/Catalog.action' successfully
+
+2023-11-29 17:23:08 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/actions/Catalog.action' successfully
+
+2023-11-29 17:23:08 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-29 17:23:08 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-29 17:23:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreBirds/Page_JPetStore Demo/img")): Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/img' is clicked on
+
+2023-11-29 17:23:09 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/img' is clicked on
+
+2023-11-29 17:23:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreBirds/Page_JPetStore Demo/a_AV-SB-02")): Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/a_AV-SB-02' is clicked on
+
+2023-11-29 17:23:10 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/a_AV-SB-02' is clicked on
+
+2023-11-29 17:23:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreBirds/Page_JPetStore Demo/a_EST-19")): Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/a_EST-19' is clicked on
+
+2023-11-29 17:23:12 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/a_EST-19' is clicked on
+
+2023-11-29 17:23:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreBirds/Page_JPetStore Demo/a_Add to Cart")): Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+2023-11-29 17:23:12 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+2023-11-29 17:23:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PetStoreBirds/Page_JPetStore Demo/input_false_EST-19"), "10"): Text '10' is set on object 'Object Repository/PetStoreBirds/Page_JPetStore Demo/input_false_EST-19'
+
+2023-11-29 17:23:13 - [MESSAGE][PASSED] - Text '10' is set on object 'Object Repository/PetStoreBirds/Page_JPetStore Demo/input_false_EST-19'
+
+2023-11-29 17:23:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreBirds/Page_JPetStore Demo/input_Sub Total 15.50_updateCartQuantities")): Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/input_Sub Total 15.50_updateCartQuantities' is clicked on
+
+2023-11-29 17:23:14 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/input_Sub Total 15.50_updateCartQuantities' is clicked on
+
+2023-11-29 17:23:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreBirds/Page_JPetStore Demo/a_Remove")): Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/a_Remove' is clicked on
+
+2023-11-29 17:23:15 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/a_Remove' is clicked on
+
+2023-11-29 17:23:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetStoreBirds/Page_JPetStore Demo/img_1")): Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/img_1' is clicked on
+
+2023-11-29 17:23:15 - [MESSAGE][PASSED] - Object: 'Object Repository/PetStoreBirds/Page_JPetStore Demo/img_1' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Petstoreturtles" time="10.707" classname="Test Cases/Petstoreturtles" status="PASSED">
+         <system-out><![CDATA[2023-11-29 17:23:15 - [TEST_CASE][PASSED] - Test Cases/Petstoreturtles: Test Cases/Petstoreturtles
+
+2023-11-29 17:23:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-29 17:23:16 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-11-29 17:23:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-29 17:23:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-29 17:23:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-29 17:23:18 - [TEST_STEP][PASSED] - navigateToUrl("https://petstore.octoperf.com/actions/Catalog.action"): Navigate to 'https://petstore.octoperf.com/actions/Catalog.action' successfully
+
+2023-11-29 17:23:20 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/actions/Catalog.action' successfully
+
+2023-11-29 17:23:20 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-29 17:23:20 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-29 17:23:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetstoreTurtles/Page_JPetStore Demo/img")): Object: 'Object Repository/PetstoreTurtles/Page_JPetStore Demo/img' is clicked on
+
+2023-11-29 17:23:21 - [MESSAGE][PASSED] - Object: 'Object Repository/PetstoreTurtles/Page_JPetStore Demo/img' is clicked on
+
+2023-11-29 17:23:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_RP-LI-02")): Object: 'Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_RP-LI-02' is clicked on
+
+2023-11-29 17:23:22 - [MESSAGE][PASSED] - Object: 'Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_RP-LI-02' is clicked on
+
+2023-11-29 17:23:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_EST-13")): Object: 'Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_EST-13' is clicked on
+
+2023-11-29 17:23:24 - [MESSAGE][PASSED] - Object: 'Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_EST-13' is clicked on
+
+2023-11-29 17:23:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_Return to RP-LI-02")): Object: 'Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_Return to RP-LI-02' is clicked on
+
+2023-11-29 17:23:25 - [MESSAGE][PASSED] - Object: 'Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_Return to RP-LI-02' is clicked on
+
+2023-11-29 17:23:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_Return to REPTILES")): Object: 'Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_Return to REPTILES' is clicked on
+
+2023-11-29 17:23:25 - [MESSAGE][PASSED] - Object: 'Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_Return to REPTILES' is clicked on
+
+2023-11-29 17:23:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PetstoreTurtles/Page_JPetStore Demo/img_1")): Object: 'Object Repository/PetstoreTurtles/Page_JPetStore Demo/img_1' is clicked on
+
+2023-11-29 17:23:26 - [MESSAGE][PASSED] - Object: 'Object Repository/PetstoreTurtles/Page_JPetStore Demo/img_1' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-11-29 17:20:26 - [TEST_SUITE][PASSED] - PetStore: Test Cases/Petstoreturtles]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

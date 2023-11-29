@@ -1,0 +1,114 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+BankLogin,Chrome 119.0.0.0,,,2023-11-29 18:14:39,2023-11-29 18:16:51,2m - 12.259s,PASSED
+,,,,,,,
+Test Cases/CustomerAlbusLogin,Chrome 119.0.0.0,,,2023-11-29 18:14:39,2023-11-29 18:15:01,22.293s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 18:14:40,2023-11-29 18:14:45,5.521s,PASSED
+"navigateToUrl(""https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"")",Chrome 119.0.0.0,,,2023-11-29 18:14:45,2023-11-29 18:14:49,3.524s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 18:14:49,2023-11-29 18:14:49,0.183s,PASSED
+"click(findTestObject(""Object Repository/CustomerAlbusLogin/Page_XYZ Bank/button_Customer Login""))",Chrome 119.0.0.0,,,2023-11-29 18:14:49,2023-11-29 18:14:52,3.482s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/CustomerAlbusLogin/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b""), ""4"", true)",Chrome 119.0.0.0,,,2023-11-29 18:14:52,2023-11-29 18:14:55,2.286s,PASSED
+"click(findTestObject(""Object Repository/CustomerAlbusLogin/Page_XYZ Bank/button_Login""))",Chrome 119.0.0.0,,,2023-11-29 18:14:55,2023-11-29 18:14:55,0.467s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/CustomerAlbusLogin/Page_XYZ Bank/select_101010111012""), ""number:1012"", true)",Chrome 119.0.0.0,,,2023-11-29 18:14:55,2023-11-29 18:14:58,2.576s,PASSED
+"click(findTestObject(""Object Repository/CustomerAlbusLogin/Page_XYZ Bank/button_Deposit""))",Chrome 119.0.0.0,,,2023-11-29 18:14:58,2023-11-29 18:14:58,0.521s,PASSED
+"setText(findTestObject(""Object Repository/CustomerAlbusLogin/Page_XYZ Bank/input_Amount to be Deposited_form-control n_97f4dd""), ""100"")",Chrome 119.0.0.0,,,2023-11-29 18:14:58,2023-11-29 18:15:00,1.329s,PASSED
+"click(findTestObject(""Object Repository/CustomerAlbusLogin/Page_XYZ Bank/button_Deposit_1""))",Chrome 119.0.0.0,,,2023-11-29 18:15:00,2023-11-29 18:15:00,0.422s,PASSED
+"click(findTestObject(""Object Repository/CustomerAlbusLogin/Page_XYZ Bank/button_Home""))",Chrome 119.0.0.0,,,2023-11-29 18:15:00,2023-11-29 18:15:01,0.535s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 18:15:01,2023-11-29 18:15:01,0.758s,PASSED
+,,,,,,,
+Test Cases/CustomerHarryLogin,Chrome 119.0.0.0,,,2023-11-29 18:15:01,2023-11-29 18:15:15,13.785s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 18:15:02,2023-11-29 18:15:04,1.604s,PASSED
+"navigateToUrl(""https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"")",Chrome 119.0.0.0,,,2023-11-29 18:15:04,2023-11-29 18:15:05,1.840s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 18:15:05,2023-11-29 18:15:06,0.136s,PASSED
+"click(findTestObject(""Object Repository/CutomerLoginHarry/Page_XYZ Bank/button_Customer Login""))",Chrome 119.0.0.0,,,2023-11-29 18:15:06,2023-11-29 18:15:07,1.490s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/CutomerLoginHarry/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b""), ""2"", true)",Chrome 119.0.0.0,,,2023-11-29 18:15:07,2023-11-29 18:15:09,1.648s,PASSED
+"click(findTestObject(""Object Repository/CutomerLoginHarry/Page_XYZ Bank/button_Login""))",Chrome 119.0.0.0,,,2023-11-29 18:15:09,2023-11-29 18:15:09,0.449s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/CutomerLoginHarry/Page_XYZ Bank/select_100410051006""), ""number:1005"", true)",Chrome 119.0.0.0,,,2023-11-29 18:15:09,2023-11-29 18:15:12,2.553s,PASSED
+"click(findTestObject(""Object Repository/CutomerLoginHarry/Page_XYZ Bank/button_Deposit""))",Chrome 119.0.0.0,,,2023-11-29 18:15:12,2023-11-29 18:15:12,0.531s,PASSED
+"setText(findTestObject(""Object Repository/CutomerLoginHarry/Page_XYZ Bank/input_Amount to be Deposited_form-control n_97f4dd""), ""1500"")",Chrome 119.0.0.0,,,2023-11-29 18:15:12,2023-11-29 18:15:13,1.302s,PASSED
+"click(findTestObject(""Object Repository/CutomerLoginHarry/Page_XYZ Bank/button_Deposit_1""))",Chrome 119.0.0.0,,,2023-11-29 18:15:13,2023-11-29 18:15:14,0.394s,PASSED
+"click(findTestObject(""Object Repository/CutomerLoginHarry/Page_XYZ Bank/button_Logout""))",Chrome 119.0.0.0,,,2023-11-29 18:15:14,2023-11-29 18:15:14,0.525s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 18:15:14,2023-11-29 18:15:15,0.770s,PASSED
+,,,,,,,
+Test Cases/CustomerNevilleLogin,Chrome 119.0.0.0,,,2023-11-29 18:15:15,2023-11-29 18:15:29,13.975s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 18:15:16,2023-11-29 18:15:17,1.313s,PASSED
+"navigateToUrl(""https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"")",Chrome 119.0.0.0,,,2023-11-29 18:15:17,2023-11-29 18:15:19,2.249s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 18:15:19,2023-11-29 18:15:19,0.136s,PASSED
+"click(findTestObject(""Object Repository/CustomerNevilleLogin/Page_XYZ Bank/button_Customer Login""))",Chrome 119.0.0.0,,,2023-11-29 18:15:19,2023-11-29 18:15:21,1.765s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/CustomerNevilleLogin/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b""), ""5"", true)",Chrome 119.0.0.0,,,2023-11-29 18:15:21,2023-11-29 18:15:23,1.663s,PASSED
+"click(findTestObject(""Object Repository/CustomerNevilleLogin/Page_XYZ Bank/button_Login""))",Chrome 119.0.0.0,,,2023-11-29 18:15:23,2023-11-29 18:15:23,0.471s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/CustomerNevilleLogin/Page_XYZ Bank/select_101310141015""), ""number:1014"", true)",Chrome 119.0.0.0,,,2023-11-29 18:15:23,2023-11-29 18:15:25,1.896s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/CustomerNevilleLogin/Page_XYZ Bank/select_101310141015""), ""number:1015"", true)",Chrome 119.0.0.0,,,2023-11-29 18:15:25,2023-11-29 18:15:26,1.169s,PASSED
+"click(findTestObject(""Object Repository/CustomerNevilleLogin/Page_XYZ Bank/button_Transactions""))",Chrome 119.0.0.0,,,2023-11-29 18:15:26,2023-11-29 18:15:27,0.506s,PASSED
+"click(findTestObject(""Object Repository/CustomerNevilleLogin/Page_XYZ Bank/button_Logout""))",Chrome 119.0.0.0,,,2023-11-29 18:15:27,2023-11-29 18:15:28,0.978s,PASSED
+"click(findTestObject(""Object Repository/CustomerNevilleLogin/Page_XYZ Bank/button_Home""))",Chrome 119.0.0.0,,,2023-11-29 18:15:28,2023-11-29 18:15:28,0.518s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 18:15:28,2023-11-29 18:15:29,0.752s,PASSED
+,,,,,,,
+Test Cases/CustomerRonLogin,Chrome 119.0.0.0,,,2023-11-29 18:15:29,2023-11-29 18:15:50,20.568s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 18:15:30,2023-11-29 18:15:31,1.387s,PASSED
+"navigateToUrl(""https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"")",Chrome 119.0.0.0,,,2023-11-29 18:15:31,2023-11-29 18:15:34,2.704s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 18:15:34,2023-11-29 18:15:34,0.130s,PASSED
+"click(findTestObject(""Object Repository/CustomerRonLogin/Page_XYZ Bank/button_Customer Login""))",Chrome 119.0.0.0,,,2023-11-29 18:15:34,2023-11-29 18:15:37,3.508s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/CustomerRonLogin/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b""), ""3"", true)",Chrome 119.0.0.0,,,2023-11-29 18:15:37,2023-11-29 18:15:39,1.984s,PASSED
+"click(findTestObject(""Object Repository/CustomerRonLogin/Page_XYZ Bank/button_Login""))",Chrome 119.0.0.0,,,2023-11-29 18:15:39,2023-11-29 18:15:40,0.383s,PASSED
+"click(findTestObject(""Object Repository/CustomerRonLogin/Page_XYZ Bank/button_Withdrawl""))",Chrome 119.0.0.0,,,2023-11-29 18:15:40,2023-11-29 18:15:41,1.474s,PASSED
+"setText(findTestObject(""Object Repository/CustomerRonLogin/Page_XYZ Bank/input_Amount to be Withdrawn_form-control n_bccfe0""), ""1000"")",Chrome 119.0.0.0,,,2023-11-29 18:15:41,2023-11-29 18:15:43,2.001s,PASSED
+"click(findTestObject(""Object Repository/CustomerRonLogin/Page_XYZ Bank/button_Withdraw""))",Chrome 119.0.0.0,,,2023-11-29 18:15:43,2023-11-29 18:15:44,0.433s,PASSED
+"click(findTestObject(""Object Repository/CustomerRonLogin/Page_XYZ Bank/span_Transaction Failed. You can not withdr_4b9636""))",Chrome 119.0.0.0,,,2023-11-29 18:15:44,2023-11-29 18:15:44,0.529s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/CustomerRonLogin/Page_XYZ Bank/select_100710081009""), ""number:1008"", true)",Chrome 119.0.0.0,,,2023-11-29 18:15:44,2023-11-29 18:15:45,1.039s,PASSED
+"click(findTestObject(""Object Repository/CustomerRonLogin/Page_XYZ Bank/button_Transactions""))",Chrome 119.0.0.0,,,2023-11-29 18:15:45,2023-11-29 18:15:46,0.524s,PASSED
+"click(findTestObject(""Object Repository/CustomerRonLogin/Page_XYZ Bank/button_Back""))",Chrome 119.0.0.0,,,2023-11-29 18:15:46,2023-11-29 18:15:48,2.641s,PASSED
+"click(findTestObject(""Object Repository/CustomerRonLogin/Page_XYZ Bank/button_Home""))",Chrome 119.0.0.0,,,2023-11-29 18:15:48,2023-11-29 18:15:49,0.519s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 18:15:49,2023-11-29 18:15:50,0.742s,PASSED
+,,,,,,,
+Test Cases/CustomerSearchManager,Chrome 119.0.0.0,,,2023-11-29 18:15:50,2023-11-29 18:16:02,11.836s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 18:15:50,2023-11-29 18:15:52,1.373s,PASSED
+"navigateToUrl(""https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"")",Chrome 119.0.0.0,,,2023-11-29 18:15:52,2023-11-29 18:15:54,2.488s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 18:15:54,2023-11-29 18:15:54,0.128s,PASSED
+"click(findTestObject(""Object Repository/CustomerSearchManager/Page_XYZ Bank/button_Bank Manager Login""))",Chrome 119.0.0.0,,,2023-11-29 18:15:54,2023-11-29 18:15:56,1.511s,PASSED
+"click(findTestObject(""Object Repository/CustomerSearchManager/Page_XYZ Bank/button_Customers""))",Chrome 119.0.0.0,,,2023-11-29 18:15:56,2023-11-29 18:15:57,0.933s,PASSED
+"setText(findTestObject(""Object Repository/CustomerSearchManager/Page_XYZ Bank/input_Customers_form-control ng-pristine ng_ffe1ed""), ""Test"")",Chrome 119.0.0.0,,,2023-11-29 18:15:57,2023-11-29 18:15:58,1.264s,PASSED
+"click(findTestObject(""Object Repository/CustomerSearchManager/Page_XYZ Bank/input_Customers_form-control ng-pristine ng_ffe1ed""))",Chrome 119.0.0.0,,,2023-11-29 18:15:58,2023-11-29 18:15:58,0.480s,PASSED
+"clearText(findTestObject(""Object Repository/CustomerSearchManager/Page_XYZ Bank/input_Customers_form-control ng-pristine ng_ffe1ed""))",Chrome 119.0.0.0,,,2023-11-29 18:15:58,2023-11-29 18:15:59,0.370s,PASSED
+"click(findTestObject(""Object Repository/CustomerSearchManager/Page_XYZ Bank/div_Customers_input-group-addon""))",Chrome 119.0.0.0,,,2023-11-29 18:15:59,2023-11-29 18:15:59,0.476s,PASSED
+"setText(findTestObject(""Object Repository/CustomerSearchManager/Page_XYZ Bank/input_Customers_form-control ng-pristine ng_ffe1ed""), ""Harry"")",Chrome 119.0.0.0,,,2023-11-29 18:15:59,2023-11-29 18:16:00,0.679s,PASSED
+"sendKeys(findTestObject(""Object Repository/CustomerSearchManager/Page_XYZ Bank/input_Customers_form-control ng-pristine ng_ffe1ed""), Keys.chord(ENTER))",Chrome 119.0.0.0,,,2023-11-29 18:16:00,2023-11-29 18:16:00,0.481s,PASSED
+"click(findTestObject(""Object Repository/CustomerSearchManager/Page_XYZ Bank/button_Home""))",Chrome 119.0.0.0,,,2023-11-29 18:16:00,2023-11-29 18:16:01,0.374s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 18:16:01,2023-11-29 18:16:02,0.734s,PASSED
+,,,,,,,
+Test Cases/GlobalsQACustomer,Chrome 119.0.0.0,,,2023-11-29 18:16:02,2023-11-29 18:16:18,16.316s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 18:16:02,2023-11-29 18:16:03,1.189s,PASSED
+"navigateToUrl(""https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"")",Chrome 119.0.0.0,,,2023-11-29 18:16:03,2023-11-29 18:16:06,2.634s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 18:16:06,2023-11-29 18:16:06,0.135s,PASSED
+"click(findTestObject(""Object Repository/HermaineCustomer/Page_XYZ Bank/button_Customer Login""))",Chrome 119.0.0.0,,,2023-11-29 18:16:06,2023-11-29 18:16:08,2.276s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/HermaineCustomer/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b""), ""1"", true)",Chrome 119.0.0.0,,,2023-11-29 18:16:08,2023-11-29 18:16:11,2.955s,PASSED
+"click(findTestObject(""Object Repository/HermaineCustomer/Page_XYZ Bank/button_Login""))",Chrome 119.0.0.0,,,2023-11-29 18:16:11,2023-11-29 18:16:12,0.409s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/HermaineCustomer/Page_XYZ Bank/select_100110021003""), ""number:1002"", true)",Chrome 119.0.0.0,,,2023-11-29 18:16:12,2023-11-29 18:16:16,4.035s,PASSED
+"click(findTestObject(""Object Repository/HermaineCustomer/Page_XYZ Bank/button_Transactions""))",Chrome 119.0.0.0,,,2023-11-29 18:16:16,2023-11-29 18:16:16,0.511s,PASSED
+"click(findTestObject(""Object Repository/HermaineCustomer/Page_XYZ Bank/button_Home""))",Chrome 119.0.0.0,,,2023-11-29 18:16:16,2023-11-29 18:16:17,1.056s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 18:16:17,2023-11-29 18:16:18,0.745s,PASSED
+,,,,,,,
+Test Cases/GlobalsManagerLogin,Chrome 119.0.0.0,,,2023-11-29 18:16:18,2023-11-29 18:16:34,15.721s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 18:16:18,2023-11-29 18:16:20,1.253s,PASSED
+"navigateToUrl(""https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"")",Chrome 119.0.0.0,,,2023-11-29 18:16:20,2023-11-29 18:16:25,5.405s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 18:16:25,2023-11-29 18:16:25,0.127s,PASSED
+"click(findTestObject(""Object Repository/AddCustomerManager/Page_XYZ Bank/button_Bank Manager Login""))",Chrome 119.0.0.0,,,2023-11-29 18:16:25,2023-11-29 18:16:27,2.178s,PASSED
+"click(findTestObject(""Object Repository/AddCustomerManager/Page_XYZ Bank/button_Add Customer""))",Chrome 119.0.0.0,,,2023-11-29 18:16:27,2023-11-29 18:16:29,1.560s,PASSED
+"setText(findTestObject(""Object Repository/AddCustomerManager/Page_XYZ Bank/input_First Name_form-control ng-pristine n_693e51""), ""Test"")",Chrome 119.0.0.0,,,2023-11-29 18:16:29,2023-11-29 18:16:31,1.579s,PASSED
+"setText(findTestObject(""Object Repository/AddCustomerManager/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d""), ""Test"")",Chrome 119.0.0.0,,,2023-11-29 18:16:31,2023-11-29 18:16:31,0.686s,PASSED
+"click(findTestObject(""Object Repository/AddCustomerManager/Page_XYZ Bank/button_Add Customer_1""))",Chrome 119.0.0.0,,,2023-11-29 18:16:31,2023-11-29 18:16:32,0.390s,PASSED
+"setText(findTestObject(""Object Repository/AddCustomerManager/Page_XYZ Bank/input_Post Code_form-control ng-pristine ng_b8fd27""), ""515411"")",Chrome 119.0.0.0,,,2023-11-29 18:16:32,2023-11-29 18:16:32,0.683s,PASSED
+"click(findTestObject(""Object Repository/AddCustomerManager/Page_XYZ Bank/button_Add Customer_1""))",Chrome 119.0.0.0,,,2023-11-29 18:16:32,2023-11-29 18:16:33,0.393s,PASSED
+"click(findTestObject(""Object Repository/AddCustomerManager/Page_XYZ Bank/button_Home""))",Chrome 119.0.0.0,,,2023-11-29 18:16:33,2023-11-29 18:16:33,0.182s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 18:16:33,2023-11-29 18:16:34,0.741s,PASSED
+,,,,,,,
+Test Cases/AccountOpeningManager,Chrome 119.0.0.0,,,2023-11-29 18:16:34,2023-11-29 18:16:51,17.254s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 18:16:34,2023-11-29 18:16:35,1.209s,PASSED
+"navigateToUrl(""https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"")",Chrome 119.0.0.0,,,2023-11-29 18:16:35,2023-11-29 18:16:39,3.758s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 18:16:39,2023-11-29 18:16:39,0.130s,PASSED
+"click(findTestObject(""Object Repository/AccountOpeningManager/Page_XYZ Bank/button_Bank Manager Login""))",Chrome 119.0.0.0,,,2023-11-29 18:16:39,2023-11-29 18:16:44,4.830s,PASSED
+"click(findTestObject(""Object Repository/AccountOpeningManager/Page_XYZ Bank/button_Open Account""))",Chrome 119.0.0.0,,,2023-11-29 18:16:44,2023-11-29 18:16:46,2.458s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/AccountOpeningManager/Page_XYZ Bank/select_---Customer Name---       Hermoine G_e4ab73""), ""1"", true)",Chrome 119.0.0.0,,,2023-11-29 18:16:46,2023-11-29 18:16:48,2.000s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/AccountOpeningManager/Page_XYZ Bank/select_---Currency---       Dollar      Pou_e54511""), ""Pound"", true)",Chrome 119.0.0.0,,,2023-11-29 18:16:48,2023-11-29 18:16:50,1.112s,PASSED
+"click(findTestObject(""Object Repository/AccountOpeningManager/Page_XYZ Bank/button_Process""))",Chrome 119.0.0.0,,,2023-11-29 18:16:50,2023-11-29 18:16:50,0.402s,PASSED
+"click(findTestObject(""Object Repository/AccountOpeningManager/Page_XYZ Bank/button_Home""))",Chrome 119.0.0.0,,,2023-11-29 18:16:50,2023-11-29 18:16:50,0.159s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 18:16:50,2023-11-29 18:16:51,0.773s,PASSED

@@ -1,0 +1,105 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PetStore,Chrome 119.0.0.0,,,2023-11-29 17:34:04,2023-11-29 17:37:04,3m - 0.414s,PASSED
+,,,,,,,
+Test Cases/PetstoreSignin,Chrome 119.0.0.0,,,2023-11-29 17:34:04,2023-11-29 17:36:05,2m - 0.992s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:34:05,2023-11-29 17:34:08,3.365s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/actions/Catalog.action"")",Chrome 119.0.0.0,,,2023-11-29 17:34:08,2023-11-29 17:34:10,1.926s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:34:10,2023-11-29 17:34:10,0.160s,PASSED
+"click(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/a_Sign In""))",Chrome 119.0.0.0,,,2023-11-29 17:34:10,2023-11-29 17:34:11,1.197s,PASSED
+"click(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/a_Register Now""))",Chrome 119.0.0.0,,,2023-11-29 17:34:11,2023-11-29 17:34:12,0.827s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username""), ""12345"")",Chrome 119.0.0.0,,,2023-11-29 17:34:12,2023-11-29 17:35:15,1m - 3.036s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_New password_password""), ""Test@123"")",Chrome 119.0.0.0,,,2023-11-29 17:35:15,2023-11-29 17:35:16,0.733s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Repeat password_repeatedPassword""), ""Test@123"")",Chrome 119.0.0.0,,,2023-11-29 17:35:16,2023-11-29 17:35:17,0.696s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_First name_account.firstName""), ""Test"")",Chrome 119.0.0.0,,,2023-11-29 17:35:17,2023-11-29 17:35:17,0.719s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Last name_account.lastName""), ""User"")",Chrome 119.0.0.0,,,2023-11-29 17:35:17,2023-11-29 17:35:18,0.747s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email""), ""test@gmail.com"")",Chrome 119.0.0.0,,,2023-11-29 17:35:18,2023-11-29 17:35:19,0.834s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Phone_account.phone""), ""8786768987"")",Chrome 119.0.0.0,,,2023-11-29 17:35:19,2023-11-29 17:35:20,0.806s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Address 1_account.address1""), ""test"")",Chrome 119.0.0.0,,,2023-11-29 17:35:20,2023-11-29 17:35:20,0.740s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Address 2_account.address2""), ""test2"")",Chrome 119.0.0.0,,,2023-11-29 17:35:20,2023-11-29 17:35:21,0.731s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_City_account.city""), ""Hyderabad"")",Chrome 119.0.0.0,,,2023-11-29 17:35:21,2023-11-29 17:35:22,0.725s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_State_account.state""), ""Telangana"")",Chrome 119.0.0.0,,,2023-11-29 17:35:22,2023-11-29 17:35:23,0.728s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Zip_account.zip""), ""500001"")",Chrome 119.0.0.0,,,2023-11-29 17:35:23,2023-11-29 17:35:23,0.703s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Country_account.country""), ""India"")",Chrome 119.0.0.0,,,2023-11-29 17:35:23,2023-11-29 17:35:24,0.724s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email""), ""test"")",Chrome 119.0.0.0,,,2023-11-29 17:35:24,2023-11-29 17:35:25,0.723s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Address 2_account.address2""), ""test2"")",Chrome 119.0.0.0,,,2023-11-29 17:35:25,2023-11-29 17:35:25,0.719s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/select_englishjapanese""), ""japanese"", true)",Chrome 119.0.0.0,,,2023-11-29 17:35:25,2023-11-29 17:35:27,1.090s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/select_englishjapanese""), ""english"", true)",Chrome 119.0.0.0,,,2023-11-29 17:35:27,2023-11-29 17:35:28,1.003s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/select_FISHDOGSREPTILESCATSBIRDS""), ""DOGS"", true)",Chrome 119.0.0.0,,,2023-11-29 17:35:28,2023-11-29 17:35:29,1.071s,PASSED
+"click(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Enable MyList_account.listOption""))",Chrome 119.0.0.0,,,2023-11-29 17:35:29,2023-11-29 17:35:29,0.393s,PASSED
+"clearText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Repeat password_repeatedPassword""))",Chrome 119.0.0.0,,,2023-11-29 17:35:29,2023-11-29 17:35:29,0.409s,PASSED
+"clearText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_User ID_username""))",Chrome 119.0.0.0,,,2023-11-29 17:35:29,2023-11-29 17:36:01,31.654s,PASSED
+"click(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email""))",Chrome 119.0.0.0,,,2023-11-29 17:36:01,2023-11-29 17:36:01,0.387s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/input_Email_account.email""), ""test@gmail.com"")",Chrome 119.0.0.0,,,2023-11-29 17:36:01,2023-11-29 17:36:02,0.725s,PASSED
+"click(findTestObject(""Object Repository/PetStoreSignin/Page_JPetStore Demo/img""))",Chrome 119.0.0.0,,,2023-11-29 17:36:02,2023-11-29 17:36:04,2.009s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 17:36:04,2023-11-29 17:36:05,0.849s,PASSED
+,,,,,,,
+Test Cases/PetstoreFish,Chrome 119.0.0.0,,,2023-11-29 17:36:05,2023-11-29 17:36:15,9.499s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:36:06,2023-11-29 17:36:07,1.379s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/actions/Catalog.action"")",Chrome 119.0.0.0,,,2023-11-29 17:36:07,2023-11-29 17:36:08,1.375s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:36:08,2023-11-29 17:36:08,0.135s,PASSED
+"click(findTestObject(""Object Repository/petStoreFish/Page_JPetStore Demo/img""))",Chrome 119.0.0.0,,,2023-11-29 17:36:08,2023-11-29 17:36:09,0.699s,PASSED
+"click(findTestObject(""Object Repository/petStoreFish/Page_JPetStore Demo/a_FI-SW-01""))",Chrome 119.0.0.0,,,2023-11-29 17:36:09,2023-11-29 17:36:10,0.684s,PASSED
+"click(findTestObject(""Object Repository/petStoreFish/Page_JPetStore Demo/a_EST-2""))",Chrome 119.0.0.0,,,2023-11-29 17:36:10,2023-11-29 17:36:11,1.404s,PASSED
+"click(findTestObject(""Object Repository/petStoreFish/Page_JPetStore Demo/a_Add to Cart""))",Chrome 119.0.0.0,,,2023-11-29 17:36:11,2023-11-29 17:36:13,1.435s,PASSED
+"click(findTestObject(""Object Repository/petStoreFish/Page_JPetStore Demo/a_Remove""))",Chrome 119.0.0.0,,,2023-11-29 17:36:13,2023-11-29 17:36:13,0.630s,PASSED
+"click(findTestObject(""Object Repository/petStoreFish/Page_JPetStore Demo/img_1""))",Chrome 119.0.0.0,,,2023-11-29 17:36:13,2023-11-29 17:36:15,1.242s,PASSED
+,,,,,,,
+Test Cases/PetstoreDemo,Chrome 119.0.0.0,,,2023-11-29 17:36:15,2023-11-29 17:36:35,20.402s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:36:15,2023-11-29 17:36:17,2.053s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/actions/Catalog.action"")",Chrome 119.0.0.0,,,2023-11-29 17:36:17,2023-11-29 17:36:19,1.718s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:36:19,2023-11-29 17:36:19,0.124s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img""))",Chrome 119.0.0.0,,,2023-11-29 17:36:19,2023-11-29 17:36:20,0.756s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_K9-PO-02""))",Chrome 119.0.0.0,,,2023-11-29 17:36:20,2023-11-29 17:36:20,0.740s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_EST-8""))",Chrome 119.0.0.0,,,2023-11-29 17:36:20,2023-11-29 17:36:22,1.272s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Add to Cart""))",Chrome 119.0.0.0,,,2023-11-29 17:36:22,2023-11-29 17:36:22,0.751s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities""))",Chrome 119.0.0.0,,,2023-11-29 17:36:22,2023-11-29 17:36:23,0.624s,PASSED
+"setText(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_false_EST-8""), ""7"")",Chrome 119.0.0.0,,,2023-11-29 17:36:23,2023-11-29 17:36:24,0.714s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities""))",Chrome 119.0.0.0,,,2023-11-29 17:36:24,2023-11-29 17:36:24,0.727s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img_1""))",Chrome 119.0.0.0,,,2023-11-29 17:36:24,2023-11-29 17:36:25,0.691s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_AV-CB-01""))",Chrome 119.0.0.0,,,2023-11-29 17:36:25,2023-11-29 17:36:26,0.685s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Add to Cart_1""))",Chrome 119.0.0.0,,,2023-11-29 17:36:26,2023-11-29 17:36:27,1.165s,PASSED
+"setText(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_false_EST-18""), ""8"")",Chrome 119.0.0.0,,,2023-11-29 17:36:27,2023-11-29 17:36:28,0.714s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities""))",Chrome 119.0.0.0,,,2023-11-29 17:36:28,2023-11-29 17:36:28,0.728s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Proceed to Checkout""))",Chrome 119.0.0.0,,,2023-11-29 17:36:28,2023-11-29 17:36:29,0.670s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Need a user name and password_signon""))",Chrome 119.0.0.0,,,2023-11-29 17:36:29,2023-11-29 17:36:30,0.784s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img_Sign In_img_cart""))",Chrome 119.0.0.0,,,2023-11-29 17:36:30,2023-11-29 17:36:31,0.828s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Remove""))",Chrome 119.0.0.0,,,2023-11-29 17:36:31,2023-11-29 17:36:31,0.763s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/a_Remove_1""))",Chrome 119.0.0.0,,,2023-11-29 17:36:31,2023-11-29 17:36:33,1.311s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/input_Sub Total 18.50_updateCartQuantities""))",Chrome 119.0.0.0,,,2023-11-29 17:36:33,2023-11-29 17:36:33,0.748s,PASSED
+"click(findTestObject(""Object Repository/Cart Addition and Deletion/Page_JPetStore Demo/img_1_2""))",Chrome 119.0.0.0,,,2023-11-29 17:36:33,2023-11-29 17:36:34,0.728s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,2023-11-29 17:36:34,2023-11-29 17:36:35,0.758s,PASSED
+,,,,,,,
+Test Cases/PetStoreCats,Chrome 119.0.0.0,,,2023-11-29 17:36:35,2023-11-29 17:36:44,9.000s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:36:36,2023-11-29 17:36:37,1.275s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/actions/Catalog.action"")",Chrome 119.0.0.0,,,2023-11-29 17:36:37,2023-11-29 17:36:38,1.509s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:36:38,2023-11-29 17:36:38,0.146s,PASSED
+"click(findTestObject(""Object Repository/PetStoreCats/Page_JPetStore Demo/img""))",Chrome 119.0.0.0,,,2023-11-29 17:36:38,2023-11-29 17:36:39,0.757s,PASSED
+"click(findTestObject(""Object Repository/PetStoreCats/Page_JPetStore Demo/a_FL-DLH-02""))",Chrome 119.0.0.0,,,2023-11-29 17:36:39,2023-11-29 17:36:40,0.751s,PASSED
+"click(findTestObject(""Object Repository/PetStoreCats/Page_JPetStore Demo/a_EST-16""))",Chrome 119.0.0.0,,,2023-11-29 17:36:40,2023-11-29 17:36:41,1.100s,PASSED
+"click(findTestObject(""Object Repository/PetStoreCats/Page_JPetStore Demo/a_Add to Cart""))",Chrome 119.0.0.0,,,2023-11-29 17:36:41,2023-11-29 17:36:43,1.462s,PASSED
+"click(findTestObject(""Object Repository/PetStoreCats/Page_JPetStore Demo/a_Remove""))",Chrome 119.0.0.0,,,2023-11-29 17:36:43,2023-11-29 17:36:43,0.717s,PASSED
+"click(findTestObject(""Object Repository/PetStoreCats/Page_JPetStore Demo/img_1""))",Chrome 119.0.0.0,,,2023-11-29 17:36:43,2023-11-29 17:36:44,0.757s,PASSED
+,,,,,,,
+Test Cases/PetStoreBirds,Chrome 119.0.0.0,,,2023-11-29 17:36:44,2023-11-29 17:36:55,10.731s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:36:45,2023-11-29 17:36:46,1.866s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/actions/Catalog.action"")",Chrome 119.0.0.0,,,2023-11-29 17:36:46,2023-11-29 17:36:48,1.466s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:36:48,2023-11-29 17:36:48,0.139s,PASSED
+"click(findTestObject(""Object Repository/PetStoreBirds/Page_JPetStore Demo/img""))",Chrome 119.0.0.0,,,2023-11-29 17:36:48,2023-11-29 17:36:49,0.791s,PASSED
+"click(findTestObject(""Object Repository/PetStoreBirds/Page_JPetStore Demo/a_AV-SB-02""))",Chrome 119.0.0.0,,,2023-11-29 17:36:49,2023-11-29 17:36:50,1.060s,PASSED
+"click(findTestObject(""Object Repository/PetStoreBirds/Page_JPetStore Demo/a_EST-19""))",Chrome 119.0.0.0,,,2023-11-29 17:36:50,2023-11-29 17:36:51,1.109s,PASSED
+"click(findTestObject(""Object Repository/PetStoreBirds/Page_JPetStore Demo/a_Add to Cart""))",Chrome 119.0.0.0,,,2023-11-29 17:36:51,2023-11-29 17:36:52,0.806s,PASSED
+"setText(findTestObject(""Object Repository/PetStoreBirds/Page_JPetStore Demo/input_false_EST-19""), ""10"")",Chrome 119.0.0.0,,,2023-11-29 17:36:52,2023-11-29 17:36:52,0.678s,PASSED
+"click(findTestObject(""Object Repository/PetStoreBirds/Page_JPetStore Demo/input_Sub Total 15.50_updateCartQuantities""))",Chrome 119.0.0.0,,,2023-11-29 17:36:52,2023-11-29 17:36:53,0.744s,PASSED
+"click(findTestObject(""Object Repository/PetStoreBirds/Page_JPetStore Demo/a_Remove""))",Chrome 119.0.0.0,,,2023-11-29 17:36:53,2023-11-29 17:36:54,0.806s,PASSED
+"click(findTestObject(""Object Repository/PetStoreBirds/Page_JPetStore Demo/img_1""))",Chrome 119.0.0.0,,,2023-11-29 17:36:54,2023-11-29 17:36:55,0.703s,PASSED
+,,,,,,,
+Test Cases/Petstoreturtles,Chrome 119.0.0.0,,,2023-11-29 17:36:55,2023-11-29 17:37:04,9.331s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,2023-11-29 17:36:55,2023-11-29 17:36:57,1.901s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/actions/Catalog.action"")",Chrome 119.0.0.0,,,2023-11-29 17:36:57,2023-11-29 17:36:58,1.475s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,2023-11-29 17:36:58,2023-11-29 17:36:59,0.125s,PASSED
+"click(findTestObject(""Object Repository/PetstoreTurtles/Page_JPetStore Demo/img""))",Chrome 119.0.0.0,,,2023-11-29 17:36:59,2023-11-29 17:36:59,0.710s,PASSED
+"click(findTestObject(""Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_RP-LI-02""))",Chrome 119.0.0.0,,,2023-11-29 17:36:59,2023-11-29 17:37:00,0.696s,PASSED
+"click(findTestObject(""Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_EST-13""))",Chrome 119.0.0.0,,,2023-11-29 17:37:00,2023-11-29 17:37:01,1.223s,PASSED
+"click(findTestObject(""Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_Return to RP-LI-02""))",Chrome 119.0.0.0,,,2023-11-29 17:37:01,2023-11-29 17:37:03,1.448s,PASSED
+"click(findTestObject(""Object Repository/PetstoreTurtles/Page_JPetStore Demo/a_Return to REPTILES""))",Chrome 119.0.0.0,,,2023-11-29 17:37:03,2023-11-29 17:37:03,0.624s,PASSED
+"click(findTestObject(""Object Repository/PetstoreTurtles/Page_JPetStore Demo/img_1""))",Chrome 119.0.0.0,,,2023-11-29 17:37:03,2023-11-29 17:37:04,0.755s,PASSED
